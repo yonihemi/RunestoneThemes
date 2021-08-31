@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Path.swift",
+        "repositoryURL": "https://github.com/mxcl/Path.swift",
+        "state": {
+          "branch": null,
+          "revision": "9c6f807b0a76be0e27aecc908bc6f173400d839e",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "TM2Runestone",
+        "repositoryURL": "https://github.com/yonihemi/TM2Runestone",
+        "state": {
+          "branch": null,
+          "revision": "af4130f2608d6cca96644a67d4c54d896571310f",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
