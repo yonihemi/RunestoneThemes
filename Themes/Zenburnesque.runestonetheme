@@ -1,0 +1,101 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "italic",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#709070"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character",
+      "fontWeight" : "regular",
+      "color" : "#FF8080"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#FF2020"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#22C0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#FFFFA0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.module,  support.other.module",
+      "fontWeight" : "bold",
+      "color" : "#FF8000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator",
+      "fontWeight" : "regular",
+      "color" : "#FFFFA0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "type",
+      "fontWeight" : "regular",
+      "color" : "#6080FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class.variant",
+      "fontWeight" : "regular",
+      "color" : "#4080A0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.type",
+      "fontWeight" : "regular",
+      "color" : "#F09040"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "bold",
+      "color" : "#FFCC66"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.user-defined",
+      "fontWeight" : "regular",
+      "color" : "#FFE000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.type.class.type",
+      "fontWeight" : "regular",
+      "color" : "#F4A020"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#A8A8A8",
+    "gutter" : {
+      "lineNumber" : "#DEDEDE",
+      "selectedLinesBackground" : "#A0804026",
+      "hairline" : "#DEDEDE",
+      "selectedLinesLineNumber" : "#DEDEDE",
+      "background" : "#404040"
+    },
+    "pageGuide" : {
+      "hairline" : "#DEDEDE",
+      "background" : "#404040"
+    },
+    "text" : "#DEDEDE",
+    "selectedLineBackground" : "#A0804026",
+    "background" : "#404040",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#FFFF66"
+  }
+}

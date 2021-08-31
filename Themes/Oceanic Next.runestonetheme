@@ -1,0 +1,143 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment, punctuation.definition.comment",
+      "fontWeight" : "regular",
+      "color" : "#65737e"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "regular",
+      "color" : "#CDD3DE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage.type",
+      "fontWeight" : "regular",
+      "color" : "#C594C5"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html",
+      "fontWeight" : "regular",
+      "color" : "#5FB3B3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#EB606B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level",
+      "fontWeight" : "regular",
+      "color" : "#6699CC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.other.variable, string.other.link",
+      "fontWeight" : "regular",
+      "color" : "#F2777A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
+      "fontWeight" : "regular",
+      "color" : "#F99157"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#99C794"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#FAC863"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
+      "fontWeight" : "regular",
+      "color" : "#EC5F67"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "variable.language",
+      "fontWeight" : "regular",
+      "color" : "#EC5F67"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.method.js",
+      "fontWeight" : "regular",
+      "color" : "#D8DEE9"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.method.js",
+      "fontWeight" : "regular",
+      "color" : "#fff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#BB80B3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.inserted",
+      "fontWeight" : "regular",
+      "color" : "#99C794"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted",
+      "fontWeight" : "regular",
+      "color" : "#EC5F67"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.changed",
+      "fontWeight" : "regular",
+      "color" : "#BB80B3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp",
+      "fontWeight" : "regular",
+      "color" : "#5FB3B3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "escape",
+      "fontWeight" : "regular",
+      "color" : "#5FB3B3"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#65737e",
+    "gutter" : {
+      "lineNumber" : "#CDD3DE",
+      "selectedLinesBackground" : "#65737e55",
+      "hairline" : "#CDD3DE",
+      "selectedLinesLineNumber" : "#CDD3DE",
+      "background" : "#1B2B34"
+    },
+    "pageGuide" : {
+      "hairline" : "#CDD3DE",
+      "background" : "#1B2B34"
+    },
+    "text" : "#CDD3DE",
+    "selectedLineBackground" : "#65737e55",
+    "background" : "#1B2B34",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#c0c5ce"
+  }
+}

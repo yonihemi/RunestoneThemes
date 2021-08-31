@@ -1,0 +1,173 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#4A496D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage",
+      "fontWeight" : "regular",
+      "color" : "#00B6AD"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#23E0EE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#C5060B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#585CF6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language, variable.other",
+      "fontWeight" : "regular",
+      "color" : "#28FBB5"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#05DF0D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character.escape, string source",
+      "fontWeight" : "regular",
+      "color" : "#26B31A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.preprocessor",
+      "fontWeight" : "regular",
+      "color" : "#1A921C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.control.import",
+      "fontWeight" : "bold",
+      "color" : "#0C450D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function, support.function.any-method",
+      "fontWeight" : "bold",
+      "color" : "#00E3CB"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.method",
+      "fontWeight" : "regular",
+      "color" : "#70727E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "bold",
+      "color" : "#3C4C72"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.class, support.type",
+      "fontWeight" : "regular",
+      "color" : "#6D79DE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#06960E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.variable",
+      "fontWeight" : "regular",
+      "color" : "#21439C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.js",
+      "fontWeight" : "regular",
+      "color" : "#687687"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag.preprocessor.xml",
+      "fontWeight" : "regular",
+      "color" : "#68685B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag.sgml.doctype, meta.tag.sgml.doctype entity, meta.tag.sgml.doctype string, meta.tag.preprocessor.xml, meta.tag.preprocessor.xml entity, meta.tag.preprocessor.xml string",
+      "fontWeight" : "regular",
+      "color" : "#888888"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag, declaration.tag",
+      "fontWeight" : "regular",
+      "color" : "#00A2DF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#FF6421"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.title",
+      "fontWeight" : "regular",
+      "color" : "#0C07FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.quote",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.list",
+      "fontWeight" : "regular",
+      "color" : "#B90690"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#BFBFBF",
+    "gutter" : {
+      "lineNumber" : "#FFFFFF",
+      "selectedLinesBackground" : "#000",
+      "hairline" : "#FFFFFF",
+      "selectedLinesLineNumber" : "#FFFFFF",
+      "background" : "#0c0c13"
+    },
+    "pageGuide" : {
+      "hairline" : "#FFFFFF",
+      "background" : "#0c0c13"
+    },
+    "text" : "#FFFFFF",
+    "selectedLineBackground" : "#000",
+    "background" : "#0c0c13",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#D0C6C6"
+  }
+}

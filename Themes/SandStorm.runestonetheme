@@ -1,0 +1,2729 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#93A1A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#93A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp",
+      "fontWeight" : "regular",
+      "color" : "#DA635F99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#DA635F99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language, variable.other",
+      "fontWeight" : "regular",
+      "color" : "#ACA79A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#ACA79A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#586E75"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class",
+      "fontWeight" : "regular",
+      "color" : "#DAA545"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "regular",
+      "color" : "#DAA545"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.variable",
+      "fontWeight" : "regular",
+      "color" : "#ACA79A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.section.embedded.begin, punctuation.section.embedded.end",
+      "fontWeight" : "regular",
+      "color" : "#DAA545"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language, meta.preprocessor",
+      "fontWeight" : "regular",
+      "color" : "#DAA545"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function.construct, keyword.other.new",
+      "fontWeight" : "regular",
+      "color" : "#DA635F99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character, constant.other",
+      "fontWeight" : "regular",
+      "color" : "#DA635F99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#ACA79A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.tag.begin, punctuation.definition.tag.end",
+      "fontWeight" : "regular",
+      "color" : "#ACA79A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#93A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#686868"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.separator.continuation",
+      "fontWeight" : "regular",
+      "color" : "#DA635F99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type, support.class",
+      "fontWeight" : "regular",
+      "color" : "#A2A2A2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.exception",
+      "fontWeight" : "regular",
+      "color" : "#DA635F99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_gutter",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_93A1A1FF",
+      "fontWeight" : "regular",
+      "color" : "#1C1C1CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D4C2A4FF",
+      "fontWeight" : "regular",
+      "color" : "#434343FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DAA545FF",
+      "fontWeight" : "regular",
+      "color" : "#292929FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_ACA79AFF",
+      "fontWeight" : "regular",
+      "color" : "#272727FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F5F5DCFF",
+      "fontWeight" : "regular",
+      "color" : "#727272FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_586E75FF",
+      "fontWeight" : "regular",
+      "color" : "#E8E8E8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B58900FF",
+      "fontWeight" : "regular",
+      "color" : "#060606FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_93A1A180",
+      "fontWeight" : "regular",
+      "color" : "#494949FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_268BD2FF",
+      "fontWeight" : "regular",
+      "color" : "#F4F4F4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DA635FFF",
+      "fontWeight" : "regular",
+      "color" : "#060606FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_073642FF",
+      "fontWeight" : "regular",
+      "color" : "#A9A9A9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_434343FF",
+      "fontWeight" : "regular",
+      "color" : "#C3C3C3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D88C89FF",
+      "fontWeight" : "regular",
+      "color" : "#222222FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_292929FF",
+      "fontWeight" : "regular",
+      "color" : "#A9A9A9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_000000FF",
+      "fontWeight" : "regular",
+      "color" : "#808080FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFFFF",
+      "fontWeight" : "regular",
+      "color" : "#7F7F7FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_727272FF",
+      "fontWeight" : "regular",
+      "color" : "#F2F2F2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EEE8D5FF",
+      "fontWeight" : "regular",
+      "color" : "#676767FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D30102FF",
+      "fontWeight" : "regular",
+      "color" : "#BFBFBFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FCF5E2FF",
+      "fontWeight" : "regular",
+      "color" : "#747474FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_1C1C1CFF",
+      "fontWeight" : "regular",
+      "color" : "#9C9C9CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_272727FF",
+      "fontWeight" : "regular",
+      "color" : "#A7A7A7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_859900FF",
+      "fontWeight" : "regular",
+      "color" : "#010101FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CB4B16FF",
+      "fontWeight" : "regular",
+      "color" : "#EBEBEBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C9C9C9FF",
+      "fontWeight" : "regular",
+      "color" : "#494949FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_747474FF",
+      "fontWeight" : "regular",
+      "color" : "#F4F4F4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_6B6B6BFF",
+      "fontWeight" : "regular",
+      "color" : "#EBEBEBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_9C9C9CFF",
+      "fontWeight" : "regular",
+      "color" : "#1C1C1CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A2A2A2FF",
+      "fontWeight" : "regular",
+      "color" : "#222222FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_818181FF",
+      "fontWeight" : "regular",
+      "color" : "#010101FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_3F3F3FFF",
+      "fontWeight" : "regular",
+      "color" : "#BFBFBFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_7F7F7FFF",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C3C3C3FF",
+      "fontWeight" : "regular",
+      "color" : "#434343FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E7E7E7FF",
+      "fontWeight" : "regular",
+      "color" : "#676767FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_010101FF",
+      "fontWeight" : "regular",
+      "color" : "#818181FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_676767FF",
+      "fontWeight" : "regular",
+      "color" : "#E7E7E7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E8E8E8FF",
+      "fontWeight" : "regular",
+      "color" : "#686868FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EBEBEBFF",
+      "fontWeight" : "regular",
+      "color" : "#6B6B6BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_686868FF",
+      "fontWeight" : "regular",
+      "color" : "#E8E8E8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F2F2F2FF",
+      "fontWeight" : "regular",
+      "color" : "#727272FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_BFBFBFFF",
+      "fontWeight" : "regular",
+      "color" : "#3F3F3FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A7A7A7FF",
+      "fontWeight" : "regular",
+      "color" : "#272727FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_060606FF",
+      "fontWeight" : "regular",
+      "color" : "#868686FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_494949FF",
+      "fontWeight" : "regular",
+      "color" : "#C9C9C9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222222FF",
+      "fontWeight" : "regular",
+      "color" : "#A2A2A2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_868686FF",
+      "fontWeight" : "regular",
+      "color" : "#060606FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A9A9A9FF",
+      "fontWeight" : "regular",
+      "color" : "#292929FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F4F4F4FF",
+      "fontWeight" : "regular",
+      "color" : "#747474FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_808080FF",
+      "fontWeight" : "regular",
+      "color" : "#000000FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_8A1211FF",
+      "fontWeight" : "regular",
+      "color" : "#B5B5B5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B5B5B5FF",
+      "fontWeight" : "regular",
+      "color" : "#353535FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_353535FF",
+      "fontWeight" : "regular",
+      "color" : "#B5B5B5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_586E7590",
+      "fontWeight" : "regular",
+      "color" : "#252525FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_586E7501",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_252525FF",
+      "fontWeight" : "regular",
+      "color" : "#A5A5A5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_757575FF",
+      "fontWeight" : "regular",
+      "color" : "#F5F5F5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A5A5A5FF",
+      "fontWeight" : "regular",
+      "color" : "#252525FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F5F5F5FF",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DA635F90",
+      "fontWeight" : "regular",
+      "color" : "#363636FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DA635F89",
+      "fontWeight" : "regular",
+      "color" : "#393939FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_363636FF",
+      "fontWeight" : "regular",
+      "color" : "#B6B6B6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_393939FF",
+      "fontWeight" : "regular",
+      "color" : "#B9B9B9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B6B6B6FF",
+      "fontWeight" : "regular",
+      "color" : "#363636FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B9B9B9FF",
+      "fontWeight" : "regular",
+      "color" : "#393939FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_93A1A190",
+      "fontWeight" : "regular",
+      "color" : "#434343FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C1C1C1FF",
+      "fontWeight" : "regular",
+      "color" : "#414141FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_414141FF",
+      "fontWeight" : "regular",
+      "color" : "#C1C1C1FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_93A1A195",
+      "fontWeight" : "regular",
+      "color" : "#414141FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_93A1A199",
+      "fontWeight" : "regular",
+      "color" : "#404040FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_93A1A198",
+      "fontWeight" : "regular",
+      "color" : "#404040FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_404040FF",
+      "fontWeight" : "regular",
+      "color" : "#C0C0C0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C0C0C0FF",
+      "fontWeight" : "regular",
+      "color" : "#404040FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DA635F99",
+      "fontWeight" : "regular",
+      "color" : "#323232FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DAA54599",
+      "fontWeight" : "regular",
+      "color" : "#484848FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C8C8C8FF",
+      "fontWeight" : "regular",
+      "color" : "#484848FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B2B2B2FF",
+      "fontWeight" : "regular",
+      "color" : "#323232FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_323232FF",
+      "fontWeight" : "regular",
+      "color" : "#B2B2B2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_484848FF",
+      "fontWeight" : "regular",
+      "color" : "#C8C8C8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF0000FF",
+      "fontWeight" : "regular",
+      "color" : "#CCCCCCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_008000FF",
+      "fontWeight" : "regular",
+      "color" : "#CBCBCBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_808000FF",
+      "fontWeight" : "regular",
+      "color" : "#F1F1F1FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFF00FF",
+      "fontWeight" : "regular",
+      "color" : "#616161FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_0000FFFF",
+      "fontWeight" : "regular",
+      "color" : "#9D9D9DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_AADDDDFF",
+      "fontWeight" : "regular",
+      "color" : "#4D4D4DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_636B6FFF",
+      "fontWeight" : "regular",
+      "color" : "#E9E9E9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CCFFAAEE",
+      "fontWeight" : "regular",
+      "color" : "#676767FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_000080FF",
+      "fontWeight" : "regular",
+      "color" : "#8E8E8EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F8F8F8FF",
+      "fontWeight" : "regular",
+      "color" : "#787878FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_008080FF",
+      "fontWeight" : "regular",
+      "color" : "#D9D9D9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_0086B3FF",
+      "fontWeight" : "regular",
+      "color" : "#E3E3E3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_999988FF",
+      "fontWeight" : "regular",
+      "color" : "#171717FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_990000FF",
+      "fontWeight" : "regular",
+      "color" : "#ADADADFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_009926FF",
+      "fontWeight" : "regular",
+      "color" : "#DEDEDEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_AAAAAAFF",
+      "fontWeight" : "regular",
+      "color" : "#2A2A2AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_990073FF",
+      "fontWeight" : "regular",
+      "color" : "#BABABAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DDFFDDFF",
+      "fontWeight" : "regular",
+      "color" : "#707070FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_999999FF",
+      "fontWeight" : "regular",
+      "color" : "#191919FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DD1144FF",
+      "fontWeight" : "regular",
+      "color" : "#D3D3D3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFDDDDFF",
+      "fontWeight" : "regular",
+      "color" : "#676767FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_445588FF",
+      "fontWeight" : "regular",
+      "color" : "#D5D5D5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_333333FF",
+      "fontWeight" : "regular",
+      "color" : "#B3B3B3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_009999FF",
+      "fontWeight" : "regular",
+      "color" : "#EBEBEBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118822FF",
+      "fontWeight" : "regular",
+      "color" : "#D8D8D8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118877FF",
+      "fontWeight" : "regular",
+      "color" : "#E2E2E2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118888FF",
+      "fontWeight" : "regular",
+      "color" : "#E4E4E4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118844FF",
+      "fontWeight" : "regular",
+      "color" : "#DCDCDCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118833FF",
+      "fontWeight" : "regular",
+      "color" : "#DADADAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118899FF",
+      "fontWeight" : "regular",
+      "color" : "#E6E6E6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119911FF",
+      "fontWeight" : "regular",
+      "color" : "#E0E0E0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119933FF",
+      "fontWeight" : "regular",
+      "color" : "#E4E4E4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119922FF",
+      "fontWeight" : "regular",
+      "color" : "#E2E2E2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119900FF",
+      "fontWeight" : "regular",
+      "color" : "#DEDEDEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220033FF",
+      "fontWeight" : "regular",
+      "color" : "#8F8F8FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119999FF",
+      "fontWeight" : "regular",
+      "color" : "#F0F0F0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220055FF",
+      "fontWeight" : "regular",
+      "color" : "#939393FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119944FF",
+      "fontWeight" : "regular",
+      "color" : "#E6E6E6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118866FF",
+      "fontWeight" : "regular",
+      "color" : "#E0E0E0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220044FF",
+      "fontWeight" : "regular",
+      "color" : "#919191FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118855FF",
+      "fontWeight" : "regular",
+      "color" : "#DEDEDEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119977FF",
+      "fontWeight" : "regular",
+      "color" : "#ECECECFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119988FF",
+      "fontWeight" : "regular",
+      "color" : "#EEEEEEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220011FF",
+      "fontWeight" : "regular",
+      "color" : "#8C8C8CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220022FF",
+      "fontWeight" : "regular",
+      "color" : "#8E8E8EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_118811FF",
+      "fontWeight" : "regular",
+      "color" : "#D6D6D6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_119955FF",
+      "fontWeight" : "regular",
+      "color" : "#E8E8E8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_0000000A",
+      "fontWeight" : "regular",
+      "color" : "#6C6C6CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_336677FF",
+      "fontWeight" : "regular",
+      "color" : "#D8D8D8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_556633FF",
+      "fontWeight" : "regular",
+      "color" : "#DBDBDBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11337711",
+      "fontWeight" : "regular",
+      "color" : "#686868FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220077FF",
+      "fontWeight" : "regular",
+      "color" : "#979797FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EEFFEEFF",
+      "fontWeight" : "regular",
+      "color" : "#777777FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EEEEEEFF",
+      "fontWeight" : "regular",
+      "color" : "#6E6E6EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_221111FF",
+      "fontWeight" : "regular",
+      "color" : "#969696FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_221100FF",
+      "fontWeight" : "regular",
+      "color" : "#949494FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_220099FF",
+      "fontWeight" : "regular",
+      "color" : "#9B9B9BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_221133FF",
+      "fontWeight" : "regular",
+      "color" : "#999999FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222233FF",
+      "fontWeight" : "regular",
+      "color" : "#A3A3A3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222244FF",
+      "fontWeight" : "regular",
+      "color" : "#A5A5A5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_221122FF",
+      "fontWeight" : "regular",
+      "color" : "#989898FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_221199FF",
+      "fontWeight" : "regular",
+      "color" : "#A5A5A5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11330011",
+      "fontWeight" : "regular",
+      "color" : "#676767FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11229999",
+      "fontWeight" : "regular",
+      "color" : "#FBFBFBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11334455",
+      "fontWeight" : "regular",
+      "color" : "#323232FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11229977",
+      "fontWeight" : "regular",
+      "color" : "#161616FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11337755",
+      "fontWeight" : "regular",
+      "color" : "#343434FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11330022",
+      "fontWeight" : "regular",
+      "color" : "#595959FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222200FF",
+      "fontWeight" : "regular",
+      "color" : "#9E9E9EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222211FF",
+      "fontWeight" : "regular",
+      "color" : "#A0A0A0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222255FF",
+      "fontWeight" : "regular",
+      "color" : "#A7A7A7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_222266FF",
+      "fontWeight" : "regular",
+      "color" : "#A9A9A9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11001133",
+      "fontWeight" : "regular",
+      "color" : "#464646FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_995522FF",
+      "fontWeight" : "regular",
+      "color" : "#E3E3E3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFF01",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DADADA82",
+      "fontWeight" : "regular",
+      "color" : "#676767FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D4D1D1FF",
+      "fontWeight" : "regular",
+      "color" : "#515151FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_080808FF",
+      "fontWeight" : "regular",
+      "color" : "#888888FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_525151FF",
+      "fontWeight" : "regular",
+      "color" : "#D1D1D1FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F2F3F0FF",
+      "fontWeight" : "regular",
+      "color" : "#727272FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F5F2F2D3",
+      "fontWeight" : "regular",
+      "color" : "#737373FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F9F9F9FF",
+      "fontWeight" : "regular",
+      "color" : "#797979FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFFBF",
+      "fontWeight" : "regular",
+      "color" : "#7C7C7CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_ECEBEBFF",
+      "fontWeight" : "regular",
+      "color" : "#6B6B6BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D4D4D4FF",
+      "fontWeight" : "regular",
+      "color" : "#545454FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_484646FF",
+      "fontWeight" : "regular",
+      "color" : "#C6C6C6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F1F0F0FF",
+      "fontWeight" : "regular",
+      "color" : "#707070FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_463939FF",
+      "fontWeight" : "regular",
+      "color" : "#BCBCBCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B5B4B3FF",
+      "fontWeight" : "regular",
+      "color" : "#343434FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_484747FF",
+      "fontWeight" : "regular",
+      "color" : "#C7C7C7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CC9999FF",
+      "fontWeight" : "regular",
+      "color" : "#282828FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DE1DDEFF",
+      "fontWeight" : "regular",
+      "color" : "#ECECECFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_004784FF",
+      "fontWeight" : "regular",
+      "color" : "#B8B8B8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_002C77FF",
+      "fontWeight" : "regular",
+      "color" : "#A7A7A7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A80533FF",
+      "fontWeight" : "regular",
+      "color" : "#BABABAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66556666",
+      "fontWeight" : "regular",
+      "color" : "#383838FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_44339911",
+      "fontWeight" : "regular",
+      "color" : "#6A6A6AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66666666",
+      "fontWeight" : "regular",
+      "color" : "#3C3C3CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77110099",
+      "fontWeight" : "regular",
+      "color" : "#FDFDFDFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66115577",
+      "fontWeight" : "regular",
+      "color" : "#1A1A1AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_88110099",
+      "fontWeight" : "regular",
+      "color" : "#000000FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_44552211",
+      "fontWeight" : "regular",
+      "color" : "#6A6A6AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77998811",
+      "fontWeight" : "regular",
+      "color" : "#6E6E6EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_33445555",
+      "fontWeight" : "regular",
+      "color" : "#393939FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_33226699",
+      "fontWeight" : "regular",
+      "color" : "#FEFEFEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77113388",
+      "fontWeight" : "regular",
+      "color" : "#0E0E0EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77997755",
+      "fontWeight" : "regular",
+      "color" : "#525252FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77881177",
+      "fontWeight" : "regular",
+      "color" : "#393939FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_99446622",
+      "fontWeight" : "regular",
+      "color" : "#626262FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_99444488",
+      "fontWeight" : "regular",
+      "color" : "#242424FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11221122",
+      "fontWeight" : "regular",
+      "color" : "#585858FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66660011",
+      "fontWeight" : "regular",
+      "color" : "#6B6B6BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66668877",
+      "fontWeight" : "regular",
+      "color" : "#343434FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66669901",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_99444466",
+      "fontWeight" : "regular",
+      "color" : "#383838FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66775599",
+      "fontWeight" : "regular",
+      "color" : "#242424FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77115533",
+      "fontWeight" : "regular",
+      "color" : "#4F4F4FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77883344",
+      "fontWeight" : "regular",
+      "color" : "#545454FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77554466",
+      "fontWeight" : "regular",
+      "color" : "#383838FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77557733",
+      "fontWeight" : "regular",
+      "color" : "#585858FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66990033",
+      "fontWeight" : "regular",
+      "color" : "#5C5C5CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_44333399",
+      "fontWeight" : "regular",
+      "color" : "#040404FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66551133",
+      "fontWeight" : "regular",
+      "color" : "#555555FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66881133",
+      "fontWeight" : "regular",
+      "color" : "#5B5B5BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_44997766",
+      "fontWeight" : "regular",
+      "color" : "#454545FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66446666",
+      "fontWeight" : "regular",
+      "color" : "#343434FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_77006633",
+      "fontWeight" : "regular",
+      "color" : "#4E4E4EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66557744",
+      "fontWeight" : "regular",
+      "color" : "#4D4D4DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_33336601",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_44559901",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_55331188",
+      "fontWeight" : "regular",
+      "color" : "#111111FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_2C3E50FF",
+      "fontWeight" : "regular",
+      "color" : "#BABABAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_42B983FF",
+      "fontWeight" : "regular",
+      "color" : "#0F0F0FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_003D75FF",
+      "fontWeight" : "regular",
+      "color" : "#B1B1B1FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFC0CBFF",
+      "fontWeight" : "regular",
+      "color" : "#545454FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F6993FFF",
+      "fontWeight" : "regular",
+      "color" : "#2A2A2AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_9561E2FF",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_6CB2EBFF",
+      "fontWeight" : "regular",
+      "color" : "#232323FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_800080FF",
+      "fontWeight" : "regular",
+      "color" : "#B4B4B4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_6574CDFF",
+      "fontWeight" : "regular",
+      "color" : "#F9F9F9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_3490DCFF",
+      "fontWeight" : "regular",
+      "color" : "#FDFDFDFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_38C172FF",
+      "fontWeight" : "regular",
+      "color" : "#0F0F0FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F66D9BFF",
+      "fontWeight" : "regular",
+      "color" : "#1B1B1BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFED4AFF",
+      "fontWeight" : "regular",
+      "color" : "#5F5F5FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_4B0082FF",
+      "fontWeight" : "regular",
+      "color" : "#A5A5A5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_00FFFFFF",
+      "fontWeight" : "regular",
+      "color" : "#323232FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F8FAFCFF",
+      "fontWeight" : "regular",
+      "color" : "#797979FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E3342FFF",
+      "fontWeight" : "regular",
+      "color" : "#E7E7E7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFA500FF",
+      "fontWeight" : "regular",
+      "color" : "#2D2D2DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_4DC0B5FF",
+      "fontWeight" : "regular",
+      "color" : "#1C1C1CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_888888FF",
+      "fontWeight" : "regular",
+      "color" : "#080808FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F7F7F7FF",
+      "fontWeight" : "regular",
+      "color" : "#777777FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D7A796FF",
+      "fontWeight" : "regular",
+      "color" : "#333333FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_718C00FF",
+      "fontWeight" : "regular",
+      "color" : "#F3F3F3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C6D796FF",
+      "fontWeight" : "regular",
+      "color" : "#4A4A4AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFF7F",
+      "fontWeight" : "regular",
+      "color" : "#7A7A7AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EDEDEDFF",
+      "fontWeight" : "regular",
+      "color" : "#6D6D6DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A6D796FF",
+      "fontWeight" : "regular",
+      "color" : "#404040FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D7C896FF",
+      "fontWeight" : "regular",
+      "color" : "#464646FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A61717FF",
+      "fontWeight" : "regular",
+      "color" : "#C1C1C1FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_8E908CFF",
+      "fontWeight" : "regular",
+      "color" : "#0E0E0EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E0E0E0FF",
+      "fontWeight" : "regular",
+      "color" : "#606060FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CFCFCFFF",
+      "fontWeight" : "regular",
+      "color" : "#4F4F4FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_4183C4FF",
+      "fontWeight" : "regular",
+      "color" : "#F6F6F6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_00000019",
+      "fontWeight" : "regular",
+      "color" : "#5D5D5DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_96C6D7FF",
+      "fontWeight" : "regular",
+      "color" : "#393939FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_BBBBBBFF",
+      "fontWeight" : "regular",
+      "color" : "#3B3B3BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFCCFF",
+      "fontWeight" : "regular",
+      "color" : "#797979FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_96A6D7FF",
+      "fontWeight" : "regular",
+      "color" : "#262626FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_AA0000FF",
+      "fontWeight" : "regular",
+      "color" : "#B2B2B2FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFFB2",
+      "fontWeight" : "regular",
+      "color" : "#7C7C7CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C82829FF",
+      "fontWeight" : "regular",
+      "color" : "#D7D7D7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EAF2F5FF",
+      "fontWeight" : "regular",
+      "color" : "#6F6F6FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_DDDDDDFF",
+      "fontWeight" : "regular",
+      "color" : "#5D5D5DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_0000000C",
+      "fontWeight" : "regular",
+      "color" : "#6A6A6AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C25F77FF",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CCCCCCFF",
+      "fontWeight" : "regular",
+      "color" : "#4C4C4CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D796A6FF",
+      "fontWeight" : "regular",
+      "color" : "#2B2B2BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFF66",
+      "fontWeight" : "regular",
+      "color" : "#797979FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E3D2D2FF",
+      "fontWeight" : "regular",
+      "color" : "#575757FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_777777FF",
+      "fontWeight" : "regular",
+      "color" : "#F7F7F7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_555555FF",
+      "fontWeight" : "regular",
+      "color" : "#D5D5D5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEFEFEFF",
+      "fontWeight" : "regular",
+      "color" : "#7E7E7EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E00077B7",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E000777F",
+      "fontWeight" : "regular",
+      "color" : "#232323FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFF33",
+      "fontWeight" : "regular",
+      "color" : "#777777FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFF4C",
+      "fontWeight" : "regular",
+      "color" : "#787878FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFFFFFCC",
+      "fontWeight" : "regular",
+      "color" : "#7D7D7DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_111111FF",
+      "fontWeight" : "regular",
+      "color" : "#919191FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_444444FF",
+      "fontWeight" : "regular",
+      "color" : "#C4C4C4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_003C7501",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_003C757F",
+      "fontWeight" : "regular",
+      "color" : "#131313FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_003C75CC",
+      "fontWeight" : "regular",
+      "color" : "#D8D8D8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_003D7550",
+      "fontWeight" : "regular",
+      "color" : "#383838FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_11994422",
+      "fontWeight" : "regular",
+      "color" : "#626262FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_008888FF",
+      "fontWeight" : "regular",
+      "color" : "#DFDFDFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E2AFF",
+      "fontWeight" : "regular",
+      "color" : "#FDFDFDFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEB24CFF",
+      "fontWeight" : "regular",
+      "color" : "#3D3D3DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_6AB5EAFF",
+      "fontWeight" : "regular",
+      "color" : "#242424FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FED976FF",
+      "fontWeight" : "regular",
+      "color" : "#585858FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_BD0026FF",
+      "fontWeight" : "regular",
+      "color" : "#BCBCBCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31A1CFF",
+      "fontWeight" : "regular",
+      "color" : "#D6D6D6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FD8D3CFF",
+      "fontWeight" : "regular",
+      "color" : "#252525FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A9A49CFF",
+      "fontWeight" : "regular",
+      "color" : "#242424FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_ECDFCAFF",
+      "fontWeight" : "regular",
+      "color" : "#606060FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_78BCECFF",
+      "fontWeight" : "regular",
+      "color" : "#2D2D2DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFEDA0FF",
+      "fontWeight" : "regular",
+      "color" : "#696969FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_EFE6D6FF",
+      "fontWeight" : "regular",
+      "color" : "#666666FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E2BFF",
+      "fontWeight" : "regular",
+      "color" : "#FEFEFEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E3BFF",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E2DFF",
+      "fontWeight" : "regular",
+      "color" : "#FEFEFEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E2EFF",
+      "fontWeight" : "regular",
+      "color" : "#FEFEFEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E21FF",
+      "fontWeight" : "regular",
+      "color" : "#FCFCFCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFCC44EE",
+      "fontWeight" : "regular",
+      "color" : "#4E4E4EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E1AFF",
+      "fontWeight" : "regular",
+      "color" : "#FCFCFCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E1CFF",
+      "fontWeight" : "regular",
+      "color" : "#FCFCFCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31A1AFF",
+      "fontWeight" : "regular",
+      "color" : "#D6D6D6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31A1FFF",
+      "fontWeight" : "regular",
+      "color" : "#D6D6D6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31A2FFF",
+      "fontWeight" : "regular",
+      "color" : "#D8D8D8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31AAFFF",
+      "fontWeight" : "regular",
+      "color" : "#E7E7E7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31A4FFF",
+      "fontWeight" : "regular",
+      "color" : "#DCDCDCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E31A9FFF",
+      "fontWeight" : "regular",
+      "color" : "#E5E5E5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F31A4FFF",
+      "fontWeight" : "regular",
+      "color" : "#E0E0E0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F31A4AFF",
+      "fontWeight" : "regular",
+      "color" : "#E0E0E0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E2FFF",
+      "fontWeight" : "regular",
+      "color" : "#FEFEFEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E20FF",
+      "fontWeight" : "regular",
+      "color" : "#FCFCFCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E30FF",
+      "fontWeight" : "regular",
+      "color" : "#FEFEFEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4EA0FF",
+      "fontWeight" : "regular",
+      "color" : "#0B0B0BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E3AFF",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E9AFF",
+      "fontWeight" : "regular",
+      "color" : "#0A0A0AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4E4AFF",
+      "fontWeight" : "regular",
+      "color" : "#010101FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFEDA1FF",
+      "fontWeight" : "regular",
+      "color" : "#696969FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFEDAAFF",
+      "fontWeight" : "regular",
+      "color" : "#6A6A6AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FCF7E8FF",
+      "fontWeight" : "regular",
+      "color" : "#767676FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_3794B3FF",
+      "fontWeight" : "regular",
+      "color" : "#FBFBFBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_877B59FF",
+      "fontWeight" : "regular",
+      "color" : "#FAFAFAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D9BF8DFF",
+      "fontWeight" : "regular",
+      "color" : "#414141FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_BC0025FF",
+      "fontWeight" : "regular",
+      "color" : "#BCBCBCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FD8B3AFF",
+      "fontWeight" : "regular",
+      "color" : "#232323FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FED975FF",
+      "fontWeight" : "regular",
+      "color" : "#585858FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E41A1EFF",
+      "fontWeight" : "regular",
+      "color" : "#D6D6D6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC4D4AFF",
+      "fontWeight" : "regular",
+      "color" : "#000000FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEB14DFF",
+      "fontWeight" : "regular",
+      "color" : "#3C3C3CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFED9EFF",
+      "fontWeight" : "regular",
+      "color" : "#696969FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FB4E2CFF",
+      "fontWeight" : "regular",
+      "color" : "#FDFDFDFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_003C75FF",
+      "fontWeight" : "regular",
+      "color" : "#B0B0B0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFED9E7F",
+      "fontWeight" : "regular",
+      "color" : "#6F6F6FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFED9E01",
+      "fontWeight" : "regular",
+      "color" : "#757575FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFF8E5FF",
+      "fontWeight" : "regular",
+      "color" : "#777777FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F3F2F0FF",
+      "fontWeight" : "regular",
+      "color" : "#727272FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_050300FF",
+      "fontWeight" : "regular",
+      "color" : "#838383FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_332600FF",
+      "fontWeight" : "regular",
+      "color" : "#A5A5A5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_191300FF",
+      "fontWeight" : "regular",
+      "color" : "#929292FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FECA2DFF",
+      "fontWeight" : "regular",
+      "color" : "#474747FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFBF00FF",
+      "fontWeight" : "regular",
+      "color" : "#3C3C3CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_191400FF",
+      "fontWeight" : "regular",
+      "color" : "#939393FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_190100FF",
+      "fontWeight" : "regular",
+      "color" : "#888888FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFD000FF",
+      "fontWeight" : "regular",
+      "color" : "#464646FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_2D2500FF",
+      "fontWeight" : "regular",
+      "color" : "#A3A3A3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEF5CCFF",
+      "fontWeight" : "regular",
+      "color" : "#737373FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFEC99FF",
+      "fontWeight" : "regular",
+      "color" : "#686868FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_282100FF",
+      "fontWeight" : "regular",
+      "color" : "#9F9F9FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FED566FF",
+      "fontWeight" : "regular",
+      "color" : "#545454FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_231A00FF",
+      "fontWeight" : "regular",
+      "color" : "#999999FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_1E0C00FF",
+      "fontWeight" : "regular",
+      "color" : "#909090FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC8835FF",
+      "fontWeight" : "regular",
+      "color" : "#212121FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FB5736FF",
+      "fontWeight" : "regular",
+      "color" : "#040404FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_1E0500FF",
+      "fontWeight" : "regular",
+      "color" : "#8B8B8BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC674AFF",
+      "fontWeight" : "regular",
+      "color" : "#101010FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FB2D03FF",
+      "fontWeight" : "regular",
+      "color" : "#E5E5E5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_190400FF",
+      "fontWeight" : "regular",
+      "color" : "#898989FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FB421CFF",
+      "fontWeight" : "regular",
+      "color" : "#F4F4F4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A3928EFF",
+      "fontWeight" : "regular",
+      "color" : "#161616FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF5432FF",
+      "fontWeight" : "regular",
+      "color" : "#030303FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_9A9897FF",
+      "fontWeight" : "regular",
+      "color" : "#181818FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_8D8B8BFF",
+      "fontWeight" : "regular",
+      "color" : "#0B0B0BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF3F19FF",
+      "fontWeight" : "regular",
+      "color" : "#F4F4F4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_978480FF",
+      "fontWeight" : "regular",
+      "color" : "#090909FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_918886FF",
+      "fontWeight" : "regular",
+      "color" : "#0A0A0AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_C56652FF",
+      "fontWeight" : "regular",
+      "color" : "#000000FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_9E9593FF",
+      "fontWeight" : "regular",
+      "color" : "#171717FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CC7665FF",
+      "fontWeight" : "regular",
+      "color" : "#0D0D0DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E5191CFF",
+      "fontWeight" : "regular",
+      "color" : "#D6D6D6FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_897575FF",
+      "fontWeight" : "regular",
+      "color" : "#FAFAFAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E51919FF",
+      "fontWeight" : "regular",
+      "color" : "#D5D5D5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_BC0000FF",
+      "fontWeight" : "regular",
+      "color" : "#B8B8B8FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_140000FF",
+      "fontWeight" : "regular",
+      "color" : "#858585FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CC0000FF",
+      "fontWeight" : "regular",
+      "color" : "#BCBCBCFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E50000FF",
+      "fontWeight" : "regular",
+      "color" : "#C4C4C4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E83030FF",
+      "fontWeight" : "regular",
+      "color" : "#E7E7E7FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_AEA69CFF",
+      "fontWeight" : "regular",
+      "color" : "#272727FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A3978EFF",
+      "fontWeight" : "regular",
+      "color" : "#191919FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_BAB6AAFF",
+      "fontWeight" : "regular",
+      "color" : "#353535FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_B3B2B1FF",
+      "fontWeight" : "regular",
+      "color" : "#323232FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFD665FF",
+      "fontWeight" : "regular",
+      "color" : "#555555FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A6A5A4FF",
+      "fontWeight" : "regular",
+      "color" : "#252525FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEB14CFF",
+      "fontWeight" : "regular",
+      "color" : "#3C3C3CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF8832FF",
+      "fontWeight" : "regular",
+      "color" : "#212121FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFA199FF",
+      "fontWeight" : "regular",
+      "color" : "#3C3C3CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEF6CCFF",
+      "fontWeight" : "regular",
+      "color" : "#737373FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFEE99FF",
+      "fontWeight" : "regular",
+      "color" : "#696969FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FED0CCFF",
+      "fontWeight" : "regular",
+      "color" : "#5D5D5DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF7065FF",
+      "fontWeight" : "regular",
+      "color" : "#191919FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFD865FF",
+      "fontWeight" : "regular",
+      "color" : "#565656FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FE554CFF",
+      "fontWeight" : "regular",
+      "color" : "#060606FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FEB44CFF",
+      "fontWeight" : "regular",
+      "color" : "#3E3E3EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF3932FF",
+      "fontWeight" : "regular",
+      "color" : "#F3F3F3FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF3D32FF",
+      "fontWeight" : "regular",
+      "color" : "#F5F5F5FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF9932FF",
+      "fontWeight" : "regular",
+      "color" : "#2B2B2BFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFCC32FF",
+      "fontWeight" : "regular",
+      "color" : "#494949FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFE565FF",
+      "fontWeight" : "regular",
+      "color" : "#5E5E5EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFDD32FF",
+      "fontWeight" : "regular",
+      "color" : "#535353FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF4332FF",
+      "fontWeight" : "regular",
+      "color" : "#F9F9F9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_800026FF",
+      "fontWeight" : "regular",
+      "color" : "#AAAAAAFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_A52A2AFF",
+      "fontWeight" : "regular",
+      "color" : "#CECECEFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D2691EFF",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F0FFFFFF",
+      "fontWeight" : "regular",
+      "color" : "#7A7A7AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_97D8EAFF",
+      "fontWeight" : "regular",
+      "color" : "#464646FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66D9EFFF",
+      "fontWeight" : "regular",
+      "color" : "#393939FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D0D0D0FF",
+      "fontWeight" : "regular",
+      "color" : "#505050FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFD2A6FF",
+      "fontWeight" : "regular",
+      "color" : "#5A5A5AFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_8CDAFFFF",
+      "fontWeight" : "regular",
+      "color" : "#464646FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_191919FF",
+      "fontWeight" : "regular",
+      "color" : "#999999FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_66A9ECFF",
+      "fontWeight" : "regular",
+      "color" : "#1C1C1CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_6D6D6DFF",
+      "fontWeight" : "regular",
+      "color" : "#EDEDEDFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FAB85AFF",
+      "fontWeight" : "regular",
+      "color" : "#414141FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E05D8CFF",
+      "fontWeight" : "regular",
+      "color" : "#090909FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F92649FF",
+      "fontWeight" : "regular",
+      "color" : "#E9E9E9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_515151FF",
+      "fontWeight" : "regular",
+      "color" : "#D1D1D1FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_90E7F7FF",
+      "fontWeight" : "regular",
+      "color" : "#4E4E4EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F92672FF",
+      "fontWeight" : "regular",
+      "color" : "#EDEDEDFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E5A5E0FF",
+      "fontWeight" : "regular",
+      "color" : "#3E3E3EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_3D3D3D55",
+      "fontWeight" : "regular",
+      "color" : "#383838FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_CD5AC5FF",
+      "fontWeight" : "regular",
+      "color" : "#080808FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF5E5EFF",
+      "fontWeight" : "regular",
+      "color" : "#0E0E0EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFB2F9FF",
+      "fontWeight" : "regular",
+      "color" : "#515151FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_6699CCFF",
+      "fontWeight" : "regular",
+      "color" : "#0F0F0FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FBDFB5FF",
+      "fontWeight" : "regular",
+      "color" : "#626262FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_ECFDB9FF",
+      "fontWeight" : "regular",
+      "color" : "#707070FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F8F8F2FF",
+      "fontWeight" : "regular",
+      "color" : "#777777FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FDB082FF",
+      "fontWeight" : "regular",
+      "color" : "#414141FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_F8F8F0FF",
+      "fontWeight" : "regular",
+      "color" : "#777777FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF9664FF",
+      "fontWeight" : "regular",
+      "color" : "#2F2F2FFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_D66990FF",
+      "fontWeight" : "regular",
+      "color" : "#0E0E0EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFE1FCFF",
+      "fontWeight" : "regular",
+      "color" : "#6D6D6DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_E9FDACFF",
+      "fontWeight" : "regular",
+      "color" : "#6D6D6DFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FF8942FF",
+      "fontWeight" : "regular",
+      "color" : "#242424FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FFD0FBFF",
+      "fontWeight" : "regular",
+      "color" : "#626262FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FBE3BFFF",
+      "fontWeight" : "regular",
+      "color" : "#666666FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_3B3A32FF",
+      "fontWeight" : "regular",
+      "color" : "#B9B9B9FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "col_FC9354FF",
+      "fontWeight" : "regular",
+      "color" : "#2B2B2BFF"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#93A1A180",
+    "gutter" : {
+      "lineNumber" : "#586E75",
+      "selectedLinesBackground" : "#EEE8D5",
+      "hairline" : "#586E75",
+      "selectedLinesLineNumber" : "#586E75",
+      "background" : "#FDF6E3"
+    },
+    "pageGuide" : {
+      "hairline" : "#586E75",
+      "background" : "#FDF6E3"
+    },
+    "text" : "#586E75",
+    "selectedLineBackground" : "#EEE8D5",
+    "background" : "#FDF6E3",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#ACA79A"
+  }
+}

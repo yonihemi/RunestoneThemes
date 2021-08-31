@@ -1,0 +1,65 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#666"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant, constant.numeric, keyword.other, support.constant",
+      "fontWeight" : "regular",
+      "color" : "#009999"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#71CC2A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity, meta.tag, punctuation.definition.tag, variable, meta.function-call",
+      "fontWeight" : "regular",
+      "color" : "#aaa"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.control",
+      "fontWeight" : "regular",
+      "color" : "#993799"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage, support.function, variable",
+      "fontWeight" : "regular",
+      "color" : "#993799"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#993799"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#aaa",
+    "gutter" : {
+      "lineNumber" : "#aaa",
+      "selectedLinesBackground" : "#000",
+      "hairline" : "#aaa",
+      "selectedLinesLineNumber" : "#aaa",
+      "background" : "#1e1e1d"
+    },
+    "pageGuide" : {
+      "hairline" : "#aaa",
+      "background" : "#1e1e1d"
+    },
+    "text" : "#aaa",
+    "selectedLineBackground" : "#000",
+    "background" : "#1e1e1d",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#CCC"
+  }
+}

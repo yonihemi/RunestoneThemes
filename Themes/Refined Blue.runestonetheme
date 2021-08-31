@@ -1,0 +1,407 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "italic",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "comment.block.documentation",
+      "fontWeight" : "regular",
+      "color" : "#629755"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "regular",
+      "color" : "#D9D7CE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage.type, storage.modifier",
+      "fontWeight" : "regular",
+      "color" : "#16CCC9"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.other.color, meta.tag, punctuation.separator.inheritance.php, punctuation.section.embedded, keyword.other.substitution",
+      "fontWeight" : "regular",
+      "color" : "#ffD4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level",
+      "fontWeight" : "regular",
+      "color" : "#00CD9D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.other.variable, string.other.link",
+      "fontWeight" : "regular",
+      "color" : "#F07178"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric, constant.language, support.constant, constant.character, keyword.other.unit",
+      "fontWeight" : "regular",
+      "color" : "#4FBA41"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.parameter",
+      "fontWeight" : "regular",
+      "color" : "#c49f79"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, keyword.other.template, constant.other.symbol, constant.other.key, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+      "fontWeight" : "regular",
+      "color" : "#D77A9E"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "entity.other.inherited-class",
+      "fontWeight" : "regular",
+      "color" : "#cac8c3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#cac8c3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "variable.language",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#FF3333"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid.deprecated",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.tag.end, punctuation.definition.tag.begin, punctuation.definition.tag",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE690"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#FFAE57"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.inserted",
+      "fontWeight" : "regular",
+      "color" : "#BAE67E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.changed",
+      "fontWeight" : "regular",
+      "color" : "#FFAE57"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp, constant.character.escape",
+      "fontWeight" : "regular",
+      "color" : "#95E6CB"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric.line-number.find-in-files - match",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.filename.find-in-files",
+      "fontWeight" : "regular",
+      "color" : "#BAE67E"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
+      "fontWeight" : "regular",
+      "color" : "#FFC44C"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "source.js constant.other.object.key.js string.unquoted.label.js",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "entity.name.method.js",
+      "fontWeight" : "regular",
+      "color" : "#FFC44C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.class-method.js entity.name.function.js, variable.function.constructor",
+      "fontWeight" : "regular",
+      "color" : "#FFC44C"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "text.emphasis",
+      "fontWeight" : "regular",
+      "color" : "#F07178"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.strong_emphasis",
+      "fontWeight" : "bold",
+      "color" : "#F07178"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.underline",
+      "fontWeight" : "regular",
+      "color" : "#D4BFFF"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "markup.quote",
+      "fontWeight" : "regular",
+      "color" : "#80D4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.raw.block",
+      "fontWeight" : "regular",
+      "color" : "#FFAE57"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.table",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html.markdown, punctuation.definition.list_item.markdown",
+      "fontWeight" : "regular",
+      "color" : "#D9D7CE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html.markdown markup.raw.inline",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html.markdown meta.dummy.line-break",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markdown.heading, markup.heading | markup.heading entity.name, markup.heading.markdown punctuation.definition.heading.markdown",
+      "fontWeight" : "regular",
+      "color" : "#BAE67E"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "markup.quote, punctuation.definition.blockquote.markdown",
+      "fontWeight" : "regular",
+      "color" : "#80D4FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.other.link.title.markdown",
+      "fontWeight" : "regular",
+      "color" : "#FFC44C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.raw.block.fenced.markdown",
+      "fontWeight" : "regular",
+      "color" : "#D9D7CE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.fenced.markdown, variable.language.fenced.markdown",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language.fenced.markdown",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.separator",
+      "fontWeight" : "bold",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta meta.structure.dictionary.json string.quoted.double.json - meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta.structure.dictionary.json punctuation.definition.string - meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.json meta.structure.dictionary.json string.quoted.double.json - meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json punctuation.definition.string - meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "acejump.label.blue",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "acejump.label.green",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "acejump.label.orange",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "acejump.label.purple",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.mark.warning",
+      "fontWeight" : "regular",
+      "color" : "#5CCFE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.gutter-mark",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.mark.error",
+      "fontWeight" : "regular",
+      "color" : "#FF3333"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.ignored.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.untracked.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#5C6773"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "gutter_color",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#FF0000",
+    "gutter" : {
+      "lineNumber" : "#606060",
+      "selectedLinesBackground" : "#292f38",
+      "hairline" : "#606060",
+      "selectedLinesLineNumber" : "#606060",
+      "background" : "#030428"
+    },
+    "pageGuide" : {
+      "hairline" : "#3D4752",
+      "background" : "#030428"
+    },
+    "text" : "#a9b7c6",
+    "selectedLineBackground" : "#292f38",
+    "background" : "#030428",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#FFCC66"
+  }
+}

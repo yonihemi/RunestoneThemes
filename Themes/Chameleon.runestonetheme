@@ -1,0 +1,161 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "bold",
+      "color" : "#DED6C7"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#DF00FC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "bold",
+      "color" : "#0064FA"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#F7A131"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#FF8300"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#7A7979"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.block",
+      "fontWeight" : "regular",
+      "color" : "#FA5300"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.parens, entity",
+      "fontWeight" : "bold",
+      "color" : "#FFA200"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.function",
+      "fontWeight" : "regular",
+      "color" : "#FFB400"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.function.body",
+      "fontWeight" : "regular",
+      "color" : "#FFCD00"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.function.body.code, support, keyword.control.clojure",
+      "fontWeight" : "regular",
+      "color" : "#94ED05F5"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.sexpr",
+      "fontWeight" : "regular",
+      "color" : "#FA5300"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "bold",
+      "color" : "#FA5300"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted",
+      "fontWeight" : "regular",
+      "color" : "#F92672"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.inserted",
+      "fontWeight" : "regular",
+      "color" : "#A6E22E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.changed",
+      "fontWeight" : "regular",
+      "color" : "#967EFB"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.directive",
+      "fontWeight" : "bold",
+      "color" : "#7515B0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.symbol",
+      "fontWeight" : "regular",
+      "color" : "#D244F5"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.group",
+      "fontWeight" : "regular",
+      "color" : "#006CFA"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation",
+      "fontWeight" : "regular",
+      "color" : "#F5F3F2"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "bold",
+      "color" : "#DB1529"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag",
+      "fontWeight" : "regular",
+      "color" : "#F5F3F2"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#D8D9D17A",
+    "gutter" : {
+      "lineNumber" : "#F5F2F2",
+      "selectedLinesBackground" : "#282828",
+      "hairline" : "#F5F2F2",
+      "selectedLinesLineNumber" : "#F5F2F2",
+      "background" : "#1C1C1C"
+    },
+    "pageGuide" : {
+      "hairline" : "#F5F2F2",
+      "background" : "#1C1C1C"
+    },
+    "text" : "#F5F2F2",
+    "selectedLineBackground" : "#282828",
+    "background" : "#1C1C1C",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#D3CFC1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "source",
+      "fontWeight" : "regular",
+      "color" : "#E8E2DF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#8B8B8B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage",
+      "fontWeight" : "regular",
+      "color" : "#B6C34D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#D98339"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name",
+      "fontWeight" : "regular",
+      "color" : "#E16C5B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#B49CDA"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language, variable.other",
+      "fontWeight" : "regular",
+      "color" : "#4DA6BD"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#C29B7A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.other.constant",
+      "fontWeight" : "regular",
+      "color" : "#E06868"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#71BACC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#B0CC66"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language",
+      "fontWeight" : "regular",
+      "color" : "#DBD76B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type",
+      "fontWeight" : "regular",
+      "color" : "#6E9CBE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#BBC94D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#E8BF6A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character.escaped, constant.character.escape, string source, string source.ruby",
+      "fontWeight" : "regular",
+      "color" : "#3FC172"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.inserted",
+      "fontWeight" : "regular",
+      "color" : "#E6E1DC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted",
+      "fontWeight" : "regular",
+      "color" : "#E6E1DC"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#404040",
+    "gutter" : {
+      "lineNumber" : "#E6E1DC",
+      "selectedLinesBackground" : "#333435",
+      "hairline" : "#E6E1DC",
+      "selectedLinesLineNumber" : "#E6E1DC",
+      "background" : "#2B2B2B"
+    },
+    "pageGuide" : {
+      "hairline" : "#E6E1DC",
+      "background" : "#2B2B2B"
+    },
+    "text" : "#E6E1DC",
+    "selectedLineBackground" : "#333435",
+    "background" : "#2B2B2B",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#FFFFFF"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#66747B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.js, entity.name.tag, constant.other, source.php.embedded.line, variable.parameter, meta.tag, declaration.tag",
+      "fontWeight" : "regular",
+      "color" : "#F1F2F3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable, support.other.variable, string.other.link, entity.name.tag, entity.name.filename.find-in-files",
+      "fontWeight" : "regular",
+      "color" : "#93C763"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp, meta.link",
+      "fontWeight" : "regular",
+      "color" : "#81A2BE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric, support.constant, punctuation.section.embedded, keyword.other.unit, constant.character.escape",
+      "fontWeight" : "regular",
+      "color" : "#FFCD22"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class, support.type, support.class",
+      "fontWeight" : "regular",
+      "color" : "#678CB1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, constant.other.symbol, constant.character, entity.other.inherited-class, markup.heading, constant.numeric.line-number.match.find-in-files",
+      "fontWeight" : "regular",
+      "color" : "#EC7600"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.tag.localname, entity.name.type.class",
+      "fontWeight" : "regular",
+      "color" : "#678CB1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage, entity.name.tag.css, constant.language, keyword.operator",
+      "fontWeight" : "regular",
+      "color" : "#93C763"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.separator",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid.deprecated",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#4B4E55",
+    "gutter" : {
+      "lineNumber" : "#F1F2F3",
+      "selectedLinesBackground" : "#42464C",
+      "hairline" : "#F1F2F3",
+      "selectedLinesLineNumber" : "#F1F2F3",
+      "background" : "#22282A"
+    },
+    "pageGuide" : {
+      "hairline" : "#F1F2F3",
+      "background" : "#22282A"
+    },
+    "text" : "#F1F2F3",
+    "selectedLineBackground" : "#42464C",
+    "background" : "#22282A",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#AEAFAD"
+  }
+}

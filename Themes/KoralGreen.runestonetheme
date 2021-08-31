@@ -1,0 +1,167 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#707070"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#DBD368"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity",
+      "fontWeight" : "regular",
+      "color" : "#E3A334"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#CF5057"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#D94A4A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, meta.verbatim",
+      "fontWeight" : "regular",
+      "color" : "#76AD81"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support",
+      "fontWeight" : "regular",
+      "color" : "#5FACE3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "regular",
+      "color" : "#B3907A"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "invalid.deprecated",
+      "fontWeight" : "regular",
+      "color" : "#AB2A1D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid.illegal",
+      "fontWeight" : "regular",
+      "color" : "#F8F8F8"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "entity.other.inherited-class",
+      "fontWeight" : "regular",
+      "color" : "#FF7700"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string constant.other.placeholder",
+      "fontWeight" : "regular",
+      "color" : "#FF6400"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.function-call.py",
+      "fontWeight" : "regular",
+      "color" : "#BECDE6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag, meta.tag entity",
+      "fontWeight" : "regular",
+      "color" : "#BD625C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.section",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.type.variant",
+      "fontWeight" : "regular",
+      "color" : "#D5E0F3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ocaml keyword.operator.symbol",
+      "fontWeight" : "regular",
+      "color" : "#F8F8F8"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ocaml keyword.operator.symbol.infix",
+      "fontWeight" : "regular",
+      "color" : "#8DA6CE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ocaml keyword.operator.symbol.prefix",
+      "fontWeight" : "regular",
+      "color" : "#8DA6CE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.tex.latex support.function",
+      "fontWeight" : "regular",
+      "color" : "#FBDE2D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.plist string.unquoted, source.plist keyword.operator",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.mark.error",
+      "fontWeight" : "regular",
+      "color" : "#D02000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.mark.warning",
+      "fontWeight" : "regular",
+      "color" : "#DDB700"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.gutter-mark",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#FFFFFF40",
+    "gutter" : {
+      "lineNumber" : "#EBEBEB",
+      "selectedLinesBackground" : "#FFFFFF14",
+      "hairline" : "#EBEBEB",
+      "selectedLinesLineNumber" : "#EBEBEB",
+      "background" : "#262626"
+    },
+    "pageGuide" : {
+      "hairline" : "#EBEBEB",
+      "background" : "#262626"
+    },
+    "text" : "#EBEBEB",
+    "selectedLineBackground" : "#FFFFFF14",
+    "background" : "#262626",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#FFFFFFA6"
+  }
+}

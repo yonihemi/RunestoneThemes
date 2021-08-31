@@ -1,0 +1,221 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "italic",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#96ceb4"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#fff3c5"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#ff6f6a"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character, constant.other",
+      "fontWeight" : "regular",
+      "color" : "#90cc99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "regular",
+      "color" : "#c8c5ff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#d09399"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#F92672"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "type",
+      "fontWeight" : "regular",
+      "color" : "#66D9EF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class",
+      "fontWeight" : "regular",
+      "color" : "#bfccec"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "entity.other.inherited-class",
+      "fontWeight" : "regular",
+      "color" : "#9b5c2e"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "regular",
+      "color" : "#ffd2a7"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "variable.parameter",
+      "fontWeight" : "regular",
+      "color" : "#c0c5fe"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#c44a87"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#A6E22E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#4f7377"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#28aaaa"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type, support.class",
+      "fontWeight" : "regular",
+      "color" : "#a06a34"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ruby",
+      "fontWeight" : "regular",
+      "color" : "#c5c8c6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.other.symbol.ruby.19syntax",
+      "fontWeight" : "regular",
+      "color" : "#99cc99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.other.constant.ruby",
+      "fontWeight" : "regular",
+      "color" : "#c6c5e2"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.type.class.ruby",
+      "fontWeight" : "regular",
+      "color" : "#ffff9a"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.type.module.ruby",
+      "fontWeight" : "regular",
+      "color" : "#ffeb9b"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ruby.embedded.source",
+      "fontWeight" : "regular",
+      "color" : "#ededed"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ruby.embedded.source punctuation.section.embedded.ruby",
+      "fontWeight" : "regular",
+      "color" : "#0b9ba0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.modifier.import.java",
+      "fontWeight" : "regular",
+      "color" : "#95cbfe"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.modifier.java",
+      "fontWeight" : "regular",
+      "color" : "#a0d2ff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.type.class.java",
+      "fontWeight" : "regular",
+      "color" : "#ffffb6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.primitive.array.java",
+      "fontWeight" : "regular",
+      "color" : "#cfcb82"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.object.array.java",
+      "fontWeight" : "regular",
+      "color" : "#cfcb90"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric.java",
+      "fontWeight" : "regular",
+      "color" : "#f770fd"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.java",
+      "fontWeight" : "regular",
+      "color" : "#cfcb89"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.dereference.java",
+      "fontWeight" : "regular",
+      "color" : "#ededed"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#49483E",
+    "gutter" : {
+      "lineNumber" : "#F8F8F2",
+      "selectedLinesBackground" : "#49483E",
+      "hairline" : "#F8F8F2",
+      "selectedLinesLineNumber" : "#F8F8F2",
+      "background" : "#17314a"
+    },
+    "pageGuide" : {
+      "hairline" : "#F8F8F2",
+      "background" : "#17314a"
+    },
+    "text" : "#F8F8F2",
+    "selectedLineBackground" : "#49483E",
+    "background" : "#17314a",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#F8F8F0"
+  }
+}

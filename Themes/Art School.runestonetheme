@@ -1,0 +1,197 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#999999"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#1794FAF0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#0025F5"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#DE5CFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character, constant.other",
+      "fontWeight" : "regular",
+      "color" : "#AE81FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass, meta.selector.sass, entity.other.attribute-name.class.sass",
+      "fontWeight" : "regular",
+      "color" : "#1794FAF0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass, meta.selector.sass, entity.other.attribute-name.id.sass",
+      "fontWeight" : "regular",
+      "color" : "#1794FAF0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass meta.property-list.sass meta.property-name.sass support.type.property-name.sass",
+      "fontWeight" : "regular",
+      "color" : "#FF6708F0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass, meta.selector.sass, entity.name.tag.sass",
+      "fontWeight" : "regular",
+      "color" : "#FF0000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass meta.property-list.sass meta.property-value.sass constant.other.color.rgb-value.sass",
+      "fontWeight" : "regular",
+      "color" : "#D4D4D4"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "bold",
+      "color" : "#FF3333"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#EB5086"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "type",
+      "fontWeight" : "bold",
+      "color" : "#0088FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class",
+      "fontWeight" : "regular",
+      "color" : "#85C70C"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "entity.other.inherited-class",
+      "fontWeight" : "regular",
+      "color" : "#507806"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "bold",
+      "color" : "#1DA11D"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "variable.parameter",
+      "fontWeight" : "regular",
+      "color" : "#FF960D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#F92672"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#A6E22E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#FFCD03"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#57C8ED"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "support.type, support.class",
+      "fontWeight" : "regular",
+      "color" : "#124CFA"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.other.variable",
+      "fontWeight" : "regular",
+      "color" : "#1C1C1C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#F8F8F0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid.deprecated",
+      "fontWeight" : "regular",
+      "color" : "#F8F8F0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.html",
+      "fontWeight" : "regular",
+      "color" : "#F77C00"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.js",
+      "fontWeight" : "regular",
+      "color" : "#5ECFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js",
+      "fontWeight" : "regular",
+      "color" : "#050505"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "comment.js",
+      "fontWeight" : "regular",
+      "color" : "#C2C2C2"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#3B3A32",
+    "gutter" : {
+      "lineNumber" : "#0D0D0D",
+      "selectedLinesBackground" : "#FFF700",
+      "hairline" : "#0D0D0D",
+      "selectedLinesLineNumber" : "#0D0D0D",
+      "background" : "#FFFFFF"
+    },
+    "pageGuide" : {
+      "hairline" : "#0D0D0D",
+      "background" : "#FFFFFF"
+    },
+    "text" : "#0D0D0D",
+    "selectedLineBackground" : "#FFF700",
+    "background" : "#FFFFFF",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#4e342e"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment, punctuation.definition.comment",
+      "fontWeight" : "regular",
+      "color" : "#AAAAAA"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.class, constant.other, source.php.embedded.line, text.html",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage, storage.type, entity.name.tag.css, constant.other.php",
+      "fontWeight" : "regular",
+      "color" : "#EE3E34"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level",
+      "fontWeight" : "regular",
+      "color" : "#673AB7"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#EE3E34"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.definition.tag.*.*, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.bold.markdown, punctuation.definition.italic.markdown",
+      "fontWeight" : "regular",
+      "color" : "#4CAF50"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#4CAF50"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#0062BD"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
+      "fontWeight" : "regular",
+      "color" : "#FF9800"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#EE3E34"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable, support.other.variable, string.other.link,\nentity.name.tag.inline.any.html,\nentity.name.tag.block.any.html,\nentity.name.tag.script.html,\nentity.name.tag.structure.any.html,\nmeta.tag.structure.any.html,\nentity.name.tag",
+      "fontWeight" : "regular",
+      "color" : "#0062BD"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.strong_emphasis",
+      "fontWeight" : "bold",
+      "color" : "#EE3E34"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "text.emphasis",
+      "fontWeight" : "regular",
+      "color" : "#FF9800"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#EDEDED",
+    "gutter" : {
+      "lineNumber" : "#000000",
+      "selectedLinesBackground" : "#F3F3F3",
+      "hairline" : "#000000",
+      "selectedLinesLineNumber" : "#000000",
+      "background" : "#FFFFFF"
+    },
+    "pageGuide" : {
+      "hairline" : "#000000",
+      "background" : "#FFFFFF"
+    },
+    "text" : "#000000",
+    "selectedLineBackground" : "#F3F3F3",
+    "background" : "#FFFFFF",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#E91E63"
+  }
+}

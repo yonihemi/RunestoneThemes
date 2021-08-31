@@ -1,0 +1,203 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "italic",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#5A525F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "bold",
+      "color" : "#811F24"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity",
+      "fontWeight" : "regular",
+      "color" : "#BF4F24"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#794938"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#A71D5D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string | punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#0B6125"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support",
+      "fontWeight" : "regular",
+      "color" : "#691C97"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "regular",
+      "color" : "#234A97"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "delimeter",
+      "fontWeight" : "regular",
+      "color" : "#794938"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "invalid.deprecated",
+      "fontWeight" : "bold",
+      "color" : "#B52A1D"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "invalid.illegal",
+      "fontWeight" : "regular",
+      "color" : "#F8F8F8"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string source",
+      "fontWeight" : "regular",
+      "color" : "#080808"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string constant",
+      "fontWeight" : "bold",
+      "color" : "#696969"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string variable",
+      "fontWeight" : "regular",
+      "color" : "#234A97"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp",
+      "fontWeight" : "regular",
+      "color" : "#CF5628"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "string.regexp.character-class, string.regexp constant.character.escaped, string.regexp source.ruby.embedded, string.regexp string.regexp.arbitrary-repitition",
+      "fontWeight" : "bold",
+      "color" : "#CF5628"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp constant.character.escape",
+      "fontWeight" : "bold",
+      "color" : "#811F24"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#693A17"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#B4371F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.variable",
+      "fontWeight" : "regular",
+      "color" : "#234A97"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.list",
+      "fontWeight" : "regular",
+      "color" : "#693A17"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.heading | markup.heading entity.name",
+      "fontWeight" : "bold",
+      "color" : "#19356D"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "markup.quote",
+      "fontWeight" : "regular",
+      "color" : "#0B6125"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "text.emphasis",
+      "fontWeight" : "regular",
+      "color" : "#080808"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.strong_emphasis",
+      "fontWeight" : "bold",
+      "color" : "#080808"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.underline",
+      "fontWeight" : "regular",
+      "color" : "#080808"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "markup.link",
+      "fontWeight" : "regular",
+      "color" : "#234A97"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.raw",
+      "fontWeight" : "regular",
+      "color" : "#234A97"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted",
+      "fontWeight" : "regular",
+      "color" : "#59140E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.separator",
+      "fontWeight" : "bold",
+      "color" : "#19356D"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#4B4B7E80",
+    "gutter" : {
+      "lineNumber" : "#080808",
+      "selectedLinesBackground" : "#2463B41F",
+      "hairline" : "#080808",
+      "selectedLinesLineNumber" : "#080808",
+      "background" : "#F9F9F9"
+    },
+    "pageGuide" : {
+      "hairline" : "#080808",
+      "background" : "#F9F9F9"
+    },
+    "text" : "#080808",
+    "selectedLineBackground" : "#2463B41F",
+    "background" : "#F9F9F9",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#000000"
+  }
+}

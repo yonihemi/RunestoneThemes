@@ -1,0 +1,77 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment, meta.tag",
+      "fontWeight" : "regular",
+      "color" : "#6e6e6e"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant, support.constant, meta.property-value, entity.name.tag, keyword.other.unit.css",
+      "fontWeight" : "regular",
+      "color" : "#881391"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable, entity.other.attribute-name, support.other.namespace, support.class, support.type.property-name, meta.property-name, meta.instance.constructor",
+      "fontWeight" : "regular",
+      "color" : "#0066cc"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.other.property, meta.property.object",
+      "fontWeight" : "regular",
+      "color" : "#0066cc"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator, storage, keyword, punctuation.separator, meta.group.braces.round.function.arguments",
+      "fontWeight" : "regular",
+      "color" : "#0000bb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.separator, invalid",
+      "fontWeight" : "regular",
+      "color" : "#dadada"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.class, entity.name.tag.css, keyword.other, string.quoted.double, string.quoted.single, punctuation.definition.string",
+      "fontWeight" : "regular",
+      "color" : "#af1212"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.function, entity.name.function, meta.function-call",
+      "fontWeight" : "regular",
+      "color" : "#007700"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#007700"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#6e6e6e",
+    "gutter" : {
+      "lineNumber" : "#2a2a2a",
+      "selectedLinesBackground" : "#e7ddb9",
+      "hairline" : "#2a2a2a",
+      "selectedLinesLineNumber" : "#2a2a2a",
+      "background" : "#dadada"
+    },
+    "pageGuide" : {
+      "hairline" : "#2a2a2a",
+      "background" : "#dadada"
+    },
+    "text" : "#2a2a2a",
+    "selectedLineBackground" : "#e7ddb9",
+    "background" : "#dadada",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#af1212"
+  }
+}

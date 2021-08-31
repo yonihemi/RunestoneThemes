@@ -1,0 +1,53 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.toc-list.id",
+      "fontWeight" : "regular",
+      "color" : "#9aa83a"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language.js",
+      "fontWeight" : "regular",
+      "color" : "#CC555A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.string.end.php, punctuation.definition.string.begin.php",
+      "fontWeight" : "regular",
+      "color" : "#9aa83a"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php.embedded.line.html",
+      "fontWeight" : "regular",
+      "color" : "#676867"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ruby.embedded.source",
+      "fontWeight" : "regular",
+      "color" : "#cb602d"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#d5d8e9",
+    "gutter" : {
+      "lineNumber" : "#d5d8e9",
+      "selectedLinesBackground" : "#323232",
+      "hairline" : "#d5d8e9",
+      "selectedLinesLineNumber" : "#d5d8e9",
+      "background" : "#1b1b1b"
+    },
+    "pageGuide" : {
+      "hairline" : "#d5d8e9",
+      "background" : "#1b1b1b"
+    },
+    "text" : "#d5d8e9",
+    "selectedLineBackground" : "#323232",
+    "background" : "#1b1b1b",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#ed0909"
+  }
+}

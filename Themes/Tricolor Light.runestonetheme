@@ -1,0 +1,65 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#888"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant, constant.numeric, keyword.other, support.constant",
+      "fontWeight" : "regular",
+      "color" : "#4a8daa"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#79962C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity, meta.tag, punctuation.definition.tag, variable, meta.function-call",
+      "fontWeight" : "regular",
+      "color" : "#000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.control",
+      "fontWeight" : "regular",
+      "color" : "#8d64a9"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage, support.function, variable",
+      "fontWeight" : "bold",
+      "color" : "#8d64a9"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "bold",
+      "color" : "#8d64a9"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#444",
+    "gutter" : {
+      "lineNumber" : "#555",
+      "selectedLinesBackground" : "#9ab359",
+      "hairline" : "#555",
+      "selectedLinesLineNumber" : "#555",
+      "background" : "#f8f8f8"
+    },
+    "pageGuide" : {
+      "hairline" : "#444",
+      "background" : "#f8f8f8"
+    },
+    "text" : "#444",
+    "selectedLineBackground" : "#9ab359",
+    "background" : "#f8f8f8",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#CCC"
+  }
+}

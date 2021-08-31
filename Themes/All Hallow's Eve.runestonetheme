@@ -1,0 +1,107 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "text",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#9933CC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant",
+      "fontWeight" : "regular",
+      "color" : "#3387CC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#CC7833"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.preprocessor.c",
+      "fontWeight" : "regular",
+      "color" : "#D0D0FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source comment.block",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#66CC33"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string constant.character.escape",
+      "fontWeight" : "regular",
+      "color" : "#AAAAAA"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.interpolated",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp",
+      "fontWeight" : "regular",
+      "color" : "#CCCC33"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.literal",
+      "fontWeight" : "regular",
+      "color" : "#CCCC33"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.interpolated constant.character.escape",
+      "fontWeight" : "regular",
+      "color" : "#555555"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#C83730"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#404040",
+    "gutter" : {
+      "lineNumber" : "#FFFFFF",
+      "selectedLinesBackground" : "#333300",
+      "hairline" : "#FFFFFF",
+      "selectedLinesLineNumber" : "#FFFFFF",
+      "background" : "#000000"
+    },
+    "pageGuide" : {
+      "hairline" : "#FFFFFF",
+      "background" : "#000000"
+    },
+    "text" : "#FFFFFF",
+    "selectedLineBackground" : "#333300",
+    "background" : "#000000",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#FFFFFF"
+  }
+}

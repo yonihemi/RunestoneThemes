@@ -1,0 +1,24 @@
+{
+  "scopes" : [
+
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#606060",
+    "gutter" : {
+      "lineNumber" : "#606060",
+      "selectedLinesBackground" : "#101010",
+      "hairline" : "#606060",
+      "selectedLinesLineNumber" : "#606060",
+      "background" : "#000000"
+    },
+    "pageGuide" : {
+      "hairline" : "#606060",
+      "background" : "#000000"
+    },
+    "text" : "#606060",
+    "selectedLineBackground" : "#101010",
+    "background" : "#000000",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#efdc0b"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment, constant, entity, invalid, keyword, markup, meta, storage, string, support, variable, source",
+      "fontWeight" : "regular",
+      "color" : "#34373b"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.quoted, meta.paragraph, entity.name.section",
+      "fontWeight" : "regular",
+      "color" : "#c5c8c6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.tex.latex support.function.general.tex, support.function.section.latex, string.other.math.block.environment.latex, string.other.math.block.environment.latex support.function.general.tex, text.tex.latex string.other.math.tex, text.tex.latex constant.other.general.math.tex, text.tex.latex string.other.math.tex meta.group.braces.tex, text.tex.latex invalid.illegal.string",
+      "fontWeight" : "regular",
+      "color" : "#999b99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.quoted.double.html, string.quoted.double.xml",
+      "fontWeight" : "regular",
+      "color" : "#34373b"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.raw.inline.markdown, string.other.link.title.markdown, string.other.link.description.markdown, markup.quote.markdown",
+      "fontWeight" : "regular",
+      "color" : "#c5c8c6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.underline.link.markdown, markup.underline.link.image.markdown",
+      "fontWeight" : "regular",
+      "color" : "#999b99"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.image.inline.markdown, meta.link.inline.markdown",
+      "fontWeight" : "regular",
+      "color" : "#34373b"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#43464c",
+    "gutter" : {
+      "lineNumber" : "#c2c5bd",
+      "selectedLinesBackground" : "#212325",
+      "hairline" : "#c2c5bd",
+      "selectedLinesLineNumber" : "#c2c5bd",
+      "background" : "#1b1d1f"
+    },
+    "pageGuide" : {
+      "hairline" : "#c2c5bd",
+      "background" : "#1b1d1f"
+    },
+    "text" : "#c2c5bd",
+    "selectedLineBackground" : "#212325",
+    "background" : "#1b1d1f",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#b6b7b5"
+  }
+}

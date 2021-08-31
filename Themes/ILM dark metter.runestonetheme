@@ -1,0 +1,161 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#ff00ffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#ffffc0ff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character, constant.other",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language, variable.other",
+      "fontWeight" : "regular",
+      "color" : "#ffa000ff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, support.constant.property-value, constant.other.color",
+      "fontWeight" : "bold",
+      "color" : "#ff00ffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.other.unit",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "bold",
+      "color" : "#46f14a"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class",
+      "fontWeight" : "bold",
+      "color" : "#ffff00ff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.inherited-class",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "bold",
+      "color" : "#00ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character.entity",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.class.js",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.selector.css, entity.name.tag.css, entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
+      "fontWeight" : "regular",
+      "color" : "#23ac2e"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.property-name.css",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#0fa70d"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.section.embedded",
+      "fontWeight" : "regular",
+      "color" : "#a000ffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.tag",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.other.color.rgb-value.css, support.constant.property-value.css",
+      "fontWeight" : "regular",
+      "color" : "#ffffffff"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#BFBFBF",
+    "gutter" : {
+      "lineNumber" : "#9015f3",
+      "selectedLinesBackground" : "#FFFBD1",
+      "hairline" : "#9015f3",
+      "selectedLinesLineNumber" : "#9015f3",
+      "background" : "#242121"
+    },
+    "pageGuide" : {
+      "hairline" : "#9015f3",
+      "background" : "#242121"
+    },
+    "text" : "#9015f3",
+    "selectedLineBackground" : "#FFFBD1",
+    "background" : "#242121",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#54dd27"
+  }
+}

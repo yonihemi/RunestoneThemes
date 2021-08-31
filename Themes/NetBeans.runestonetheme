@@ -1,0 +1,191 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#969696"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#D27B00"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.tag.begin, punctuation.definition.tag.end",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#009900"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.tag.css",
+      "fontWeight" : "bold",
+      "color" : "#009900"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
+      "fontWeight" : "bold",
+      "color" : "#009900"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.class.css",
+      "fontWeight" : "bold",
+      "color" : "#009900"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.property-name.css",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric.css",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.other.unit.css",
+      "fontWeight" : "regular",
+      "color" : "#000066"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function.misc.css",
+      "fontWeight" : "regular",
+      "color" : "#000066"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.parameter.misc.css",
+      "fontWeight" : "regular",
+      "color" : "#D27B00"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.tag.html",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.annotation.java",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.other.documentation.param.javadoc, keyword.other.documentation.return.javadoc, keyword.other.documentation.throws.javadoc, keyword.other.documentation.exception.javadoc, keyword.other.documentation.author.javadoc, keyword.other.documentation.version.javadoc, keyword.other.documentation.see.javadoc, keyword.other.documentation.since.javadoc, keyword.other.documentation.serial.javadoc, keyword.other.documentation.serialField.javadoc, keyword.other.documentation.serialData.javadoc, keyword.other.documentation.deprecated.javadoc, keyword.other.documentation.custom.javadoc",
+      "fontWeight" : "bold",
+      "color" : "#969696"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language.java, variable.language.java, storage.modifier.extends.java, storage.modifier.implements.java",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.modifier.java",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.conditional.java, keyword.operator.arithmetic.java, keyword.operator.assignment.java, keyword.operator.comparison.java, keyword.operator.dereference.java, keyword.operator.increment-decrement.java, keyword.operator.logical.java",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.primitive.java, storage.type.primitive.array.java",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.js, storage.modifier.js, storage.type.function.js, constant.language.js, constant.language.boolean.true.js, constant.language.boolean.false.js, constant.language.null.js, variable.language.js, keyword.reserved.js",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.js",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.assignment.jsp",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.other.directive.attribute.jsp",
+      "fontWeight" : "regular",
+      "color" : "#009900"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.filename.todo-list",
+      "fontWeight" : "regular",
+      "color" : "#0000E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric.item-number.todo-list, constant.numeric.line-number.todo-list",
+      "fontWeight" : "regular",
+      "color" : "#990099"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#B3B3B3F4",
+    "gutter" : {
+      "lineNumber" : "#000000",
+      "selectedLinesBackground" : "#0000001A",
+      "hairline" : "#000000",
+      "selectedLinesLineNumber" : "#000000",
+      "background" : "#EEEEEEEB"
+    },
+    "pageGuide" : {
+      "hairline" : "#000000",
+      "background" : "#EEEEEEEB"
+    },
+    "text" : "#000000",
+    "selectedLineBackground" : "#0000001A",
+    "background" : "#EEEEEEEB",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#000000"
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "italic",
+      "name" : "comment, punctuation.definition.comment, string.comment.buffered",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "type",
+      "fontWeight" : "regular",
+      "color" : "#0DCBFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator, constant.other.color, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, \npunctuation.definition.tag.end.html",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html.basic meta.tag.inline.any.html entity.other.attribute-name.html, text.html.basic meta.tag.block.any.html entity.other.attribute-name.html, text.html.basic meta.tag.other.html entity.other.attribute-name.html, text.html.basic meta.tag.any.html entity.other.attribute-name.html",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php comment.block.documentation.phpdoc.php meta.tag.inline.phpdoc.php keyword.other.phpdoc.php",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php comment.block.documentation.phpdoc.php meta.tag.inline.phpdoc.php",
+      "fontWeight" : "bold",
+      "color" : "#546E7A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php support.function.basic_functions.php",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php support.function.file.php",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php meta.function-call.object.php",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php meta.array.php meta.array.php support.function.construct.php",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "embedding.php text.html.basic meta.embedded.block.php source.php variable.other.php",
+      "fontWeight" : "regular",
+      "color" : "#EC5F67"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#EB606B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level",
+      "fontWeight" : "regular",
+      "color" : "#CCA898"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.other.variable, string.other.link",
+      "fontWeight" : "regular",
+      "color" : "#F2777A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
+      "fontWeight" : "regular",
+      "color" : "#DEE090"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#3DFF7D"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "fontWeight" : "bold",
+      "color" : "#FFFFB3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
+      "fontWeight" : "regular",
+      "color" : "#EC5F67"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language",
+      "fontWeight" : "bold",
+      "color" : "#EDE15F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.method.js",
+      "fontWeight" : "bold",
+      "color" : "#D8DEE9"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.method.js",
+      "fontWeight" : "regular",
+      "color" : "#fff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name,\nmeta.selector.css entity.other.attribute-name.class, source.scss entity.other.attribute-name.class.css, source.less entity.other.attribute-name.class.css, keyword.other.default.scss, keyword.other.default.less",
+      "fontWeight" : "regular",
+      "color" : "#D5EBB3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less entity.other.attribute-name.class.css punctuation.definition.entity.css",
+      "fontWeight" : "regular",
+      "color" : "#D0E3B1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less keyword.operator.less",
+      "fontWeight" : "regular",
+      "color" : "#E8BF7E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.inserted",
+      "fontWeight" : "regular",
+      "color" : "#99C794"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less entity.other.attribute-name.id.css, source.less entity.other.attribute-name.id.css punctuation.definition.entity.css",
+      "fontWeight" : "regular",
+      "color" : "#E8BF82"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less entity.other.attribute-name.class.css entity.other.less.mixin",
+      "fontWeight" : "regular",
+      "color" : "#D47B81"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted",
+      "fontWeight" : "regular",
+      "color" : "#EC5F67"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.changed",
+      "fontWeight" : "regular",
+      "color" : "#D67E84"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp",
+      "fontWeight" : "regular",
+      "color" : "#C939ED"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "escape",
+      "fontWeight" : "regular",
+      "color" : "#e6647c"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less variable.declaration.less, source.less variable.other.less, source.scss meta.set.variable variable",
+      "fontWeight" : "regular",
+      "color" : "#E6647C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less meta.property-value.css variable.other.less, source.scss meta.property-list.scss meta.property-value.scss variable.scss variable.scss",
+      "fontWeight" : "regular",
+      "color" : "#e6647c"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less parameter.less variable.other.less",
+      "fontWeight" : "regular",
+      "color" : "#e6647c"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.less meta.property-value.css support.function.less",
+      "fontWeight" : "regular",
+      "color" : "#e58f48ff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.less.mixin",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.property-value.css keyword.operator.less, keyword.other.important.css",
+      "fontWeight" : "regular",
+      "color" : "#ee9903"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.property-name.css, support.type.property-name.scss, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.attribute.css, variable.scss, meta.property-name.scss, meta.property-name.less, meta.property-list.css meta.property-name.css",
+      "fontWeight" : "regular",
+      "color" : "#46acdb"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.deleted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#F44336"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.changed.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#FAC86E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "markup.inserted.git_gutter",
+      "fontWeight" : "regular",
+      "color" : "#8AD4E6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.outline.notes",
+      "fontWeight" : "regular",
+      "color" : "#F9A825"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.outline.illegal",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.underline.illegal",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.outline.warning",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.underline.warning",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.outline.violation",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "sublimelinter.underline.violation",
+      "fontWeight" : "regular",
+      "color" : "#ffffff"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.selector.css entity.other.attribute-name.id, meta.selector.scss entity.other.attribute-name.id, meta.selector.less entity.other.attribute-name.id, entity.name.tag.reference.scss, entity.name.tag.reference.less",
+      "fontWeight" : "regular",
+      "color" : "#E67E7E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "bold",
+      "color" : "#26A673"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#B0E658"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "bold",
+      "color" : "#FFFFFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "begin, end",
+      "fontWeight" : "regular",
+      "color" : "#FFFFFF"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#65737E",
+    "gutter" : {
+      "lineNumber" : "#37474F",
+      "selectedLinesBackground" : "#202A2F",
+      "hairline" : "#37474F",
+      "selectedLinesLineNumber" : "#37474F",
+      "background" : "#263238"
+    },
+    "pageGuide" : {
+      "hairline" : "#000000",
+      "background" : "#263238"
+    },
+    "text" : "#82A4BA",
+    "selectedLineBackground" : "#202A2F",
+    "background" : "#263238",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#C0C5CE"
+  }
+}

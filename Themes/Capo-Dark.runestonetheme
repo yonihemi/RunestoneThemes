@@ -1,0 +1,77 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment, meta.tag",
+      "fontWeight" : "regular",
+      "color" : "#6a6a6a"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword, storage, constant, support.constant, meta.property-value, entity.name.tag, keyword.other.unit.css",
+      "fontWeight" : "regular",
+      "color" : "#7e6f94"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable, entity.other.attribute-name, support.other.namespace, support.class, support.type.property-name, meta.property-name, meta.instance.constructor",
+      "fontWeight" : "regular",
+      "color" : "#7587a6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.other.property, meta.property.object",
+      "fontWeight" : "regular",
+      "color" : "#7587a6"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator, punctuation.separator, meta.group.braces.round.function.arguments",
+      "fontWeight" : "regular",
+      "color" : "#999e9f"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.separator, invalid",
+      "fontWeight" : "regular",
+      "color" : "#999e9f"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.class, entity.name.tag.css, keyword.other, string.quoted.double, string.quoted.single, punctuation.definition.string, entity.other.attribute-name.id",
+      "fontWeight" : "regular",
+      "color" : "#b0686f"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.function, entity.name.function, meta.function-call",
+      "fontWeight" : "regular",
+      "color" : "#869c78"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#869c78"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#4B4E55",
+    "gutter" : {
+      "lineNumber" : "#999e9f",
+      "selectedLinesBackground" : "#171717",
+      "hairline" : "#999e9f",
+      "selectedLinesLineNumber" : "#999e9f",
+      "background" : "#292d35"
+    },
+    "pageGuide" : {
+      "hairline" : "#999e9f",
+      "background" : "#292d35"
+    },
+    "text" : "#999e9f",
+    "selectedLineBackground" : "#171717",
+    "background" : "#292d35",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#925a62"
+  }
+}

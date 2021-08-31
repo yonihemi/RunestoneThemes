@@ -1,0 +1,119 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "string",
+      "fontWeight" : "regular",
+      "color" : "#009933"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#0066FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp",
+      "fontWeight" : "regular",
+      "color" : "#FF0080"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#0000FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language",
+      "fontWeight" : "regular",
+      "color" : "#9700CC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.class.exception",
+      "fontWeight" : "regular",
+      "color" : "#990000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function",
+      "fontWeight" : "regular",
+      "color" : "#FF8000"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#0066FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "regular",
+      "color" : "#FF0000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text source",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag, declaration.tag",
+      "fontWeight" : "regular",
+      "color" : "#0033CC"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant, support.constant",
+      "fontWeight" : "regular",
+      "color" : "#6782D3"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support",
+      "fontWeight" : "bold",
+      "color" : "#3333FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function.frame",
+      "fontWeight" : "bold",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.tag.preprocessor.xml",
+      "fontWeight" : "regular",
+      "color" : "#333333"
+    },
+    {
+      "fontStyle" : "italic",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#3366CC"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#B3B3B3F4",
+    "gutter" : {
+      "lineNumber" : "#000000",
+      "selectedLinesBackground" : "#0000001A",
+      "hairline" : "#000000",
+      "selectedLinesLineNumber" : "#000000",
+      "background" : "#EEEEEEEB"
+    },
+    "pageGuide" : {
+      "hairline" : "#000000",
+      "background" : "#EEEEEEEB"
+    },
+    "text" : "#000000",
+    "selectedLineBackground" : "#0000001A",
+    "background" : "#EEEEEEEB",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#000000"
+  }
+}

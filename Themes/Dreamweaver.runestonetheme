@@ -1,0 +1,269 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "text",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.numeric - source.css",
+      "fontWeight" : "regular",
+      "color" : "#EE000B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "comment",
+      "fontWeight" : "regular",
+      "color" : "#9A9A9A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html meta.tag",
+      "fontWeight" : "regular",
+      "color" : "#00359E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html.basic meta.tag string.quoted - source",
+      "fontWeight" : "regular",
+      "color" : "#001EFF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html.basic constant.character.entity.html",
+      "fontWeight" : "bold",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html meta.tag.a - string",
+      "fontWeight" : "regular",
+      "color" : "#106800"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html meta.tag.img - string",
+      "fontWeight" : "regular",
+      "color" : "#6D232E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html meta.tag.form - string",
+      "fontWeight" : "regular",
+      "color" : "#FF9700"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "text.html meta.tag.table - string",
+      "fontWeight" : "regular",
+      "color" : "#009079"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js.embedded.html punctuation.definition.tag - source.php, source.js.embedded.html entity.name.tag.script, source.js.embedded entity.other.attribute-name - source.js string",
+      "fontWeight" : "regular",
+      "color" : "#842B44"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js comment - source.php",
+      "fontWeight" : "regular",
+      "color" : "#9A9A9A"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js meta.function - source.php",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js meta.class - source.php, source.js support.function - source.php",
+      "fontWeight" : "regular",
+      "color" : "#24C696"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js string - source.php, source.js keyword.operator",
+      "fontWeight" : "regular",
+      "color" : "#0035FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js support.class",
+      "fontWeight" : "regular",
+      "color" : "#7E00B7"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js storage",
+      "fontWeight" : "bold",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js storage - storage.type.function - source.php, source.js constant - source.php, source.js keyword - source.php, source.js variable.language, source.js meta.brace, source.js punctuation.definition.parameters.begin, source.js punctuation.definition.parameters.end",
+      "fontWeight" : "bold",
+      "color" : "#05208C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.js string.regexp, source.js string.regexp constant",
+      "fontWeight" : "regular",
+      "color" : "#106800"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css.embedded.html punctuation.definition.tag, source.css.embedded.html entity.name.tag.style, source.css.embedded entity.other.attribute-name - meta.selector",
+      "fontWeight" : "regular",
+      "color" : "#8D00B7"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css meta.at-rule.import.css",
+      "fontWeight" : "bold",
+      "color" : "#009C7F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css keyword.other.important",
+      "fontWeight" : "bold",
+      "color" : "#EE000B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css meta.at-rule.media",
+      "fontWeight" : "bold",
+      "color" : "#430303"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css string",
+      "fontWeight" : "regular",
+      "color" : "#106800"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css meta.selector, source.css meta.property-list, source.css meta.at-rule",
+      "fontWeight" : "regular",
+      "color" : "#DA29FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css punctuation.separator - source.php, source.css punctuation.terminator - source.php",
+      "fontWeight" : "bold",
+      "color" : "#DA29FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css meta.property-name",
+      "fontWeight" : "regular",
+      "color" : "#05208C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.css meta.property-value",
+      "fontWeight" : "regular",
+      "color" : "#0035FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php punctuation.section.embedded.begin, source.php punctuation.section.embedded.end",
+      "fontWeight" : "bold",
+      "color" : "#EE000B"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php - punctuation.section",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php variable, source.php meta.function.arguments",
+      "fontWeight" : "regular",
+      "color" : "#000000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php punctuation - string - variable - meta.function",
+      "fontWeight" : "regular",
+      "color" : "#05208C"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php storage.type",
+      "fontWeight" : "regular",
+      "color" : "#24BF96"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php keyword - comment, source.php storage.type.class, source.php storage.type.interface, source.php storage.modifier, source.php constant.language",
+      "fontWeight" : "regular",
+      "color" : "#009714"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php support , source.php storage, source.php keyword.operator, source.php storage.type.function",
+      "fontWeight" : "regular",
+      "color" : "#0035FF"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php variable.other.global",
+      "fontWeight" : "regular",
+      "color" : "#0092F2"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php support.constant, source.php constant.language.php",
+      "fontWeight" : "regular",
+      "color" : "#551D02"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php string, source.php string keyword.operator",
+      "fontWeight" : "regular",
+      "color" : "#E20000"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php string.quoted.double variable",
+      "fontWeight" : "regular",
+      "color" : "#FF6200"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.php comment",
+      "fontWeight" : "regular",
+      "color" : "#FF9404"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "invalid",
+      "fontWeight" : "bold",
+      "color" : "#EE000B"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#BFBFBF",
+    "gutter" : {
+      "lineNumber" : "#000000",
+      "selectedLinesBackground" : "#00000012",
+      "hairline" : "#000000",
+      "selectedLinesLineNumber" : "#000000",
+      "background" : "#FFFFFF"
+    },
+    "pageGuide" : {
+      "hairline" : "#000000",
+      "background" : "#FFFFFF"
+    },
+    "text" : "#000000",
+    "selectedLineBackground" : "#00000012",
+    "background" : "#FFFFFF",
+    "scrollIndicatorStyle" : "black",
+    "caret" : "#000000"
+  }
+}

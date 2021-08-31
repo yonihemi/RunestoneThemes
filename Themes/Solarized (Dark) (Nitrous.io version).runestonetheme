@@ -1,0 +1,341 @@
+{
+  "scopes" : [
+    {
+      "fontStyle" : "regular",
+      "name" : "comment, comment entity.name.tag.slim, comment entity.name.tag-name.slim, comment meta.line.ruby.slim, comment source.ruby, comment punctuation, comment punctuation.section.function.ruby, comment string, comment constant.other.symbol, comment punctuation.section.scope, comment punctuation.section.embedded.ruby, comment variable.other, comment punctuation.definition.variable, comment keyword, comment support.function, comment keyword.operator.assignment, comment punctuation.separator.continuation, comment constant.language, comment punctuation.separator.key-value, comment punctuation.separator.other",
+      "fontWeight" : "regular",
+      "color" : "#566e75"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string, constant.character.escape, source.coffee string meta.property, source.ruby punctuation.section.embedded.begin, source.ruby punctuation.section.embedded.end",
+      "fontWeight" : "regular",
+      "color" : "#869826"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "string.regexp, constant.character.escape.ruby, keyword.control.anchor.regexp",
+      "fontWeight" : "regular",
+      "color" : "#b98822"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "number",
+      "fontWeight" : "regular",
+      "color" : "#d8377f"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.ruby, variable.other.ruby",
+      "fontWeight" : "regular",
+      "color" : "#008cce"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language, variable.other",
+      "fontWeight" : "regular",
+      "color" : "#b98822"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword",
+      "fontWeight" : "regular",
+      "color" : "#d14a1e"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage",
+      "fontWeight" : "regular",
+      "color" : "#93A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class, entity.name.type.class",
+      "fontWeight" : "regular",
+      "color" : "#92A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.class.js, variable.other.class.js",
+      "fontWeight" : "regular",
+      "color" : "#008CCE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.name.function, support.function.console.js, source.ruby meta.function-call.method.without-arguments.ruby support.function.core.ruby, source.ruby variable.other.block",
+      "fontWeight" : "regular",
+      "color" : "#00A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.variable",
+      "fontWeight" : "regular",
+      "color" : "#b98822"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.section.embedded.begin, punctuation.section.embedded.end",
+      "fontWeight" : "regular",
+      "color" : "#D30102"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language, meta.preprocessor",
+      "fontWeight" : "regular",
+      "color" : "#D14A1E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function.construct, keyword.other.new",
+      "fontWeight" : "regular",
+      "color" : "#CB4B16"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.character, constant.other",
+      "fontWeight" : "regular",
+      "color" : "#CB4B16"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.inherited-class",
+      "fontWeight" : "regular",
+      "color" : "#92A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.separator.inheritance",
+      "fontWeight" : "regular",
+      "color" : "#6772C0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.parameter",
+      "fontWeight" : "regular",
+      "color" : "#00A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "tag",
+      "fontWeight" : "regular",
+      "color" : "#268BD2"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.definition.tag",
+      "fontWeight" : "regular",
+      "color" : "#657B83"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "attribute",
+      "fontWeight" : "regular",
+      "color" : "#93A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.function",
+      "fontWeight" : "regular",
+      "color" : "#268BD2"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.separator.continuation",
+      "fontWeight" : "regular",
+      "color" : "#D30102"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type, support.class",
+      "fontWeight" : "regular",
+      "color" : "#859900"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.exception",
+      "fontWeight" : "regular",
+      "color" : "#CB4B16"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.other.symbol",
+      "fontWeight" : "regular",
+      "color" : "#D8377F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.class, punctuation.separator.other",
+      "fontWeight" : "regular",
+      "color" : "#D8377F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.other.constant",
+      "fontWeight" : "regular",
+      "color" : "#92A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.other.special-method",
+      "fontWeight" : "regular",
+      "color" : "#00A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.separator.object, punctuation.separator.continuation",
+      "fontWeight" : "regular",
+      "color" : "#829496"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.assignment, keyword.operator.logical",
+      "fontWeight" : "regular",
+      "color" : "#6772C0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.section.scope, source.ruby punctuation.section.array, source.ruby punctuation.section.function",
+      "fontWeight" : "regular",
+      "color" : "#829496"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.class.js, support.class.coffee",
+      "fontWeight" : "regular",
+      "color" : "#008CCE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.function, storage.type.js",
+      "fontWeight" : "regular",
+      "color" : "#D14A1E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "variable.language.this.js",
+      "fontWeight" : "regular",
+      "color" : "#D14A1E"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.property, variable.function.js, source.js variable.other.property, source.js entity.name.type.new",
+      "fontWeight" : "regular",
+      "color" : "#00A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "constant.language.undefined, constant.language.boolean",
+      "fontWeight" : "regular",
+      "color" : "#D8377F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "keyword.operator.relational.js, keyword.operator.arithmetic.js, keyword.operator.comparison.js, keyword.operator.logical.js",
+      "fontWeight" : "regular",
+      "color" : "#6772C0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.object.dom, source.js meta.instance.constructor, support.type.object.console",
+      "fontWeight" : "regular",
+      "color" : "#008CCE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "meta.object-literal.key.js, constant.other.object.key.js string",
+      "fontWeight" : "regular",
+      "color" : "#00A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.coffee, entity.name.function.coffee, source.coffee variable.parameter",
+      "fontWeight" : "regular",
+      "color" : "#0085C4"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.coffee meta.brace",
+      "fontWeight" : "regular",
+      "color" : "#819395"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "punctuation.separator.key-value, text.slim  punctuation.section.embedded.ruby, text.slim punctuation.section.function.ruby, text.html.ruby punctuation.section.embedded.ruby, text.html.ruby entity.name.tag, keyword.operator.accessor.js, entity.name.tag-name.slim, source.coffee meta.delimiter.object, source.coffee meta.delimiter.method",
+      "fontWeight" : "regular",
+      "color" : "#829496"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "storage.type.function.coffee, keyword.operator.coffee, text.slim meta.line.ruby.slim, text.html.ruby punctuation.section.embedded.ruby, text.html.ruby punctuation.separator.other.ruby",
+      "fontWeight" : "regular",
+      "color" : "#6772C0"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.id.sass, entity.name.tag.yaml",
+      "fontWeight" : "regular",
+      "color" : "#D8377F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "entity.other.attribute-name.class.sass, source.sass variable",
+      "fontWeight" : "regular",
+      "color" : "#B98822"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.property-name.css.sass, source.sass keyword.control.at-rule, entity.name.tag.slim, text.html.ruby entity.other.attribute-name",
+      "fontWeight" : "regular",
+      "color" : "#00A198"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.constant.property-value.sass, constant.numeric.sass, source.sass keyword.other.unit, source.sass constant.other.rgb-value",
+      "fontWeight" : "regular",
+      "color" : "#D8377F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass keyword.control",
+      "fontWeight" : "regular",
+      "color" : "#92A1A1"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "source.sass support.constant.font-name.sass",
+      "fontWeight" : "regular",
+      "color" : "#008CCE"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "function.jQuery.binder.coffee",
+      "fontWeight" : "regular",
+      "color" : "#D8377F"
+    },
+    {
+      "fontStyle" : "regular",
+      "name" : "support.type.property.vendor.name.css.sass",
+      "fontWeight" : "regular",
+      "color" : "#7D9826"
+    }
+  ],
+  "editor" : {
+    "invisibleCharacters" : "#93A1A180",
+    "gutter" : {
+      "lineNumber" : "#566e75",
+      "selectedLinesBackground" : "#194049",
+      "hairline" : "#566e75",
+      "selectedLinesLineNumber" : "#566e75",
+      "background" : "#002b35"
+    },
+    "pageGuide" : {
+      "hairline" : "#93a1a1",
+      "background" : "#002b35"
+    },
+    "text" : "#93a1a1",
+    "selectedLineBackground" : "#194049",
+    "background" : "#002b35",
+    "scrollIndicatorStyle" : "white",
+    "caret" : "#819191"
+  }
+}
